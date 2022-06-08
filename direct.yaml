@@ -1,6 +1,5 @@
 payload:
   # > direct
-  - DOMAIN-SUFFIX,voovmeeting.com
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,mtcgame.com

@@ -2,6 +2,9 @@ payload:
   # > direct
   - DOMAIN-SUFFIX,ubisoft.com
   - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN,ubisoft-avatars.akamaized.net
+  - DOMAIN,ubistatic3-a.akamaihd.net
+  - DOMAIN-KEYWORD,akamai
   # Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

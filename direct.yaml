@@ -1,5 +1,9 @@
 payload:
   # > direct
+  # Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,mtcgame.com
+  # Ubisoft In-Game
+  - DOMAIN,msr-public-ubiservices.ubi.com
+  - DOMAIN,cdn.r6-live.aws.r6.ubi.com

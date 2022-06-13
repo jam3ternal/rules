@@ -7,4 +7,3 @@ payload:
   # Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
-  - DOMAIN,eos-general.s3.amazonaws.com

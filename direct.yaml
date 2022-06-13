@@ -10,6 +10,6 @@ payload:
   - DOMAIN,gamecdn.r6q.ubisoft.com
   - DOMAIN,msr-public-ubiservices.ubi.com
   - DOMAIN,overlay.cdn.ubisoft.com
-#  - DOMAIN,public-ubiservices.ubi.com
+  - DOMAIN,public-ubiservices.ubi.com
   - DOMAIN,public-ws-ubiservices.ubi.com
   - DOMAIN,ubiservices.cdn.ubi.com

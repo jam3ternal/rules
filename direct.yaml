@@ -5,5 +5,8 @@ payload:
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,mtcgame.com
   # Ubisoft In-Game
-  - DOMAIN,msr-public-ubiservices.ubi.com
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
+  - DOMAIN,msr-public-ubiservices.ubi.com
+  - DOMAIN,overlay.cdn.ubisoft.com
+  - DOMAIN,public-ubiservices.ubi.com
+  - DOMAIN,public-ws-ubiservices.ubi.com

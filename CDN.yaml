@@ -90,4 +90,4 @@ payload:
   - DOMAIN,public-ubiservices.ubi.com
   - DOMAIN,public-ws-ubiservices.ubi.com
   - DOMAIN,ubisoft-avatars.akamaized.net
-  ubistatic3-a.akamaihd.net
+  - DOMAIN,ubistatic3-a.akamaihd.net

@@ -7,12 +7,12 @@ payload:
   # Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
-  - DOMAIN,msr-public-ubiservices.ubi.com
-  - DOMAIN,overlay.cdn.ubisoft.com
-  - DOMAIN,public-ubiservices.ubi.com
-  - DOMAIN,public-ws-ubiservices.ubi.com
-  - DOMAIN,sigma.ubi.com
-  - DOMAIN,ubiservices.cdn.ubi.com
+#  - DOMAIN,msr-public-ubiservices.ubi.com
+#  - DOMAIN,overlay.cdn.ubisoft.com
+#  - DOMAIN,public-ubiservices.ubi.com
+#  - DOMAIN,public-ws-ubiservices.ubi.com
+#  - DOMAIN,sigma.ubi.com
+#  - DOMAIN,ubiservices.cdn.ubi.com
   # Among Us
 #  - DOMAIN,backend.innersloth.com
   - DOMAIN,matchmaker.among.us

@@ -6,17 +6,14 @@ payload:
   - DOMAIN-SUFFIX,mtcgame.com
   # Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
-#  - DOMAIN,channel-service.upc.ubi.com
-#  - DOMAIN,dmx.upc.ubisoft.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
   - DOMAIN,msr-public-ubiservices.ubi.com
   - DOMAIN,overlay.cdn.ubisoft.com
   - DOMAIN,public-ubiservices.ubi.com
   - DOMAIN,public-ws-ubiservices.ubi.com
   - DOMAIN,sigma.ubi.com
-#  - DOMAIN,static.a.upc.ubisoft.com
-#  - DOMAIN,static3.cdn.ubi.com
-#  - DOMAIN,static8.cdn.ubi.com
-#  - DOMAIN,uat-ubiservices.cdn.ubi.com
   - DOMAIN,ubiservices.cdn.ubi.com
-#  - DOMAIN,wallet.ecom.ubi.com
+  # Among Us
+  - DOMAIN,backend.innersloth.com
+  - DOMAIN,matchmaker-as.among.us
+  - DOMAIN,matchmaker-eu.among.us

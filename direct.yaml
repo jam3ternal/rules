@@ -7,6 +7,7 @@ payload:
   # Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,channel-service.upc.ubi.com
+  - DOMAIN,gamecdn.r6q.ubisoft.com
   - DOMAIN,msr-public-ubiservices.ubi.com
   - DOMAIN,overlay.cdn.ubisoft.com
 #  - DOMAIN,public-ubiservices.ubi.com

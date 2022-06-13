@@ -14,6 +14,7 @@ payload:
   - DOMAIN,sigma.ubi.com
   - DOMAIN,ubiservices.cdn.ubi.com
   # Among Us
-  - DOMAIN,backend.innersloth.com
+#  - DOMAIN,backend.innersloth.com
+  - DOMAIN,matchmaker.among.us
   - DOMAIN,matchmaker-as.among.us
   - DOMAIN,matchmaker-eu.among.us

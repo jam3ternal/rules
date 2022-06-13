@@ -1,4 +1,5 @@
 payload:
+  # > CDN
   # Steam
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com

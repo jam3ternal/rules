@@ -14,7 +14,8 @@ payload:
   - DOMAIN,public-ubiservices.ubi.com
   - DOMAIN,public-ws-ubiservices.ubi.com
   - DOMAIN,static.a.upc.ubisoft.com
-  - DOMAIN,static3.cdn.ubi.com
+#  - DOMAIN,static3.cdn.ubi.com
+#  - DOMAIN,static8.cdn.ubi.com
   - DOMAIN,uat-ubiservices.cdn.ubi.com
   - DOMAIN,ubiservices.cdn.ubi.com
   - DOMAIN,wallet.ecom.ubi.com

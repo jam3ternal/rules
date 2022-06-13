@@ -1,5 +1,7 @@
 payload:
   # > direct
+  - DOMAIN-SUFFIX,ubisoft.com
+  - DOMAIN-SUFFIX,ubi.com
   # Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

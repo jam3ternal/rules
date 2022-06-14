@@ -11,9 +11,6 @@ payload:
   - DOMAIN,steampowered.com.8686c.com
   - DOMAIN,steamstatic.com.8686c.com
   - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
-  - DOMAIN,cdn-ws.content.steamchina.com
-  - DOMAIN,cdn-qc.content.steamchina.com
-  - DOMAIN,cdn-ali.content.steamchina.com
   - DOMAIN,xz.pphimalayanrt.com
   - IP-CIDR,162.254.198.44/32,no-resolve
   - IP-CIDR,162.254.198.104/32,no-resolve
@@ -83,7 +80,7 @@ payload:
   - IP-CIDR,155.133.249.197/32,no-resolve
   - IP-CIDR,190.217.33.69/32,no-resolve
   - IP-CIDR,190.217.33.68/32,no-resolve
-# Epic Games
+  # Epic Games
   - DOMAIN-SUFFIX,epicgames-download1-1251447533.file.myqcloud.com
-# Ubisoft Connect
+  # Ubisoft Connect
   - DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com

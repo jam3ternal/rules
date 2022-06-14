@@ -1,6 +1,77 @@
 payload:
-  # > direct
-  # WeChat
+  # China Area Network
+  - DOMAIN-SUFFIX,flyert.com
+  - DOMAIN-SUFFIX,gandi.net
+  - DOMAIN-SUFFIX,snapdrop.net
+  - DOMAIN,download.jetbrains.com
+  # ---(Microsoft)---
+  # > Outlook
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,smtp-mail.outlook.com
+  - DOMAIN,smtp.office365.com
+  # > Windows Server Update Services
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,update.microsoft.com
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windowsupdate.microsoft.com
+  - DOMAIN,download.microsoft.com
+  - DOMAIN,wustat.windows.com
+  - DOMAIN,ntservicepack.microsoft.com
+  # ------
+  # > Giftcards
+  - DOMAIN-SUFFIX,turgame.com
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN-SUFFIX,mtcgame.com
+  # > IP Query
+  - DOMAIN,ip.istatmenus.app
+  - DOMAIN,sms.imagetasks.com
+  # > Private Tracker
+  - DOMAIN-SUFFIX,acg.rip
+  - DOMAIN-SUFFIX,animebytes.tv
+  - DOMAIN-SUFFIX,awesome-hd.me
+  - DOMAIN-SUFFIX,broadcasthe.net
+  - DOMAIN-SUFFIX,chdbits.co
+  - DOMAIN-SUFFIX,classix-unlimited.co.uk
+  - DOMAIN-SUFFIX,comicat.org
+  - DOMAIN-SUFFIX,empornium.me
+  - DOMAIN-SUFFIX,gazellegames.net
+  - DOMAIN-SUFFIX,hdbits.org
+  - DOMAIN-SUFFIX,hdchina.org
+  - DOMAIN-SUFFIX,hddolby.com
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,hdsky.me
+  - DOMAIN-SUFFIX,icetorrent.org
+  - DOMAIN-SUFFIX,jpopsuki.eu
+  - DOMAIN-SUFFIX,keepfrds.com
+  - DOMAIN-SUFFIX,madsrevolution.net
+  - DOMAIN-SUFFIX,morethan.tv
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,myanonamouse.net
+  - DOMAIN-SUFFIX,nanyangpt.com
+  - DOMAIN-SUFFIX,ncore.cc
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,passthepopcorn.me
+  - DOMAIN-SUFFIX,privatehd.to
+  - DOMAIN-SUFFIX,pterclub.com
+  - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,springsunday.net
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,totheglory.im
+  # > Speed Test
+  - DOMAIN-SUFFIX,netspeedtestmaster.com
+  - DOMAIN,speedtest.macpaw.com
+  # > Steam
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN,api.steampowered.com
+  # > Tencent
+  - IP-CIDR,182.254.116.0/24,no-resolve
+  - IP-CIDR,203.205.238.0/23,no-resolve
+  - IP-CIDR,203.205.254.0/23,no-resolve
+  # > Ubisoft In-Game
+  - DOMAIN,cdn.r6-live.aws.r6.ubi.com
+  - DOMAIN,gamecdn.r6q.ubisoft.com
+  # > WeChat
   - DOMAIN,dl.wechat.com
   - DOMAIN,res.servicewechat.com
   - DOMAIN,resstatic.servicewechat.com
@@ -19,10 +90,3 @@ payload:
   - IP-CIDR,101.32.133.53/32,no-resolve
   - IP-CIDR,129.226.107.244/32,no-resolve
   - IP-CIDR,129.226.3.47/32,no-resolve
-  # Giftcards
-  - DOMAIN-SUFFIX,turgame.com
-  - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,mtcgame.com
-  # Ubisoft In-Game
-  - DOMAIN,cdn.r6-live.aws.r6.ubi.com
-  - DOMAIN,gamecdn.r6q.ubisoft.com

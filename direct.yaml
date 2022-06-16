@@ -25,6 +25,8 @@ payload:
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
+  # > Omegle
+  - DOMAIN-SUFFIX,omegle.com
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

@@ -18,6 +18,8 @@ payload:
   - DOMAIN,wustat.windows.com
   - DOMAIN,ntservicepack.microsoft.com
   # ------
+  # > Duolingo
+  - DOMAIN-SUFFIX,duolingo.com
   # > Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

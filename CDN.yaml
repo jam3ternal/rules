@@ -8,9 +8,9 @@ payload:
   - DOMAIN,st.dl.eccdnx.com
   - DOMAIN,st.dl.pinyuncloud.com
   - DOMAIN,steampipe.steamcontent.tnkjmec.com
-# - DOMAIN,steampowered.com.8686c.com
-# - DOMAIN,steamstatic.com.8686c.com
-# - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
+  - DOMAIN,steampowered.com.8686c.com
+  - DOMAIN,steamstatic.com.8686c.com
+  - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
   - DOMAIN,xz.pphimalayanrt.com
   - IP-CIDR,103.10.124.162/32,no-resolve
   - IP-CIDR,103.10.124.163/32,no-resolve

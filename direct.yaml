@@ -74,7 +74,7 @@ payload:
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
   # > Ubisoft
-  - DOMAIN,store.ubi.com
+# - DOMAIN,store.ubi.com
   # > Ubisoft In-Game
 # - DOMAIN,cdn.r6-live.aws.r6.ubi.com
 # - DOMAIN,gamecdn.r6q.ubisoft.com

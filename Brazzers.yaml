@@ -1,6 +1,6 @@
 payload:
   # > Brazzers
-  - DOMAIN-SUFFIX,brazzers.com
-  - DOMAIN-SUFFIX,portalcdn.com
-  - DOMAIN-SUFFIX,project1content.com
-  - DOMAIN-SUFFIX,project1service.com
+  - '+.brazzers.com'
+  - '+.portalcdn.com'
+  - '+.project1content.com'
+  - '+.project1service.com'

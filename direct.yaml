@@ -67,7 +67,6 @@ payload:
   # > Steam
 # - DOMAIN-SUFFIX,cm.steampowered.com
   # > Subscription
-  - DOMAIN,jmssub.net
   - DOMAIN,sub8xcc.v0943.top
   # > Tencent
   - IP-CIDR,182.254.116.0/24,no-resolve

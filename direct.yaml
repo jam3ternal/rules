@@ -18,6 +18,8 @@ payload:
   - DOMAIN,wustat.windows.com
   - DOMAIN,ntservicepack.microsoft.com
   # ------
+  # 3HK
+  - DOMAIN-SUFFIX,three.com.hk
   # > Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

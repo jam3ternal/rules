@@ -25,6 +25,7 @@ payload:
   - DOMAIN,iosapps.itunes.apple.com
   # > CTMO
   - DOMAIN,1888.com.mo
+  - DOMAIN,wechat.ctcmo.com
   # > Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

@@ -19,10 +19,12 @@ payload:
   - DOMAIN,wustat.windows.com
   - DOMAIN,ntservicepack.microsoft.com
   # ------
-  # 3HK
+  # > 3HK
   - DOMAIN-SUFFIX,three.com.hk
-  # Apple
+  # > App Store
   - DOMAIN,iosapps.itunes.apple.com
+  # > CTMO
+  - DOMAIN,1888.com.mo
   # > Giftcards
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN-SUFFIX,oyunfor.com

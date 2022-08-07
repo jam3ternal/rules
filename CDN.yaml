@@ -1,5 +1,7 @@
 payload:
   # > CDN
+  # Epic Games
+  - DOMAIN,download.epicgames.com
   # Steam
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN,dl.steam.clngaa.com
@@ -80,7 +82,5 @@ payload:
   - IP-CIDR,205.185.194.213/32,no-resolve
   - IP-CIDR,205.196.6.214/32,no-resolve
   - IP-CIDR,205.196.6.215/32,no-resolve
-  # Epic Games
-  - DOMAIN,download.epicgames.com
   # Ubisoft Connect
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

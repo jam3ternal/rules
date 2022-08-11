@@ -67,8 +67,8 @@ payload:
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
   # > Replika
-# - DOMAIN-SUFFIX,replika.ai
-# - DOMAIN-SUFFIX,replika.com
+  - DOMAIN-SUFFIX,replika.ai
+  - DOMAIN-SUFFIX,replika.com
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com
@@ -84,8 +84,12 @@ payload:
   # > Ubisoft
 # - DOMAIN,store.ubi.com
   # > Ubisoft In-Game
-# - DOMAIN,cdn.r6-live.aws.r6.ubi.com
-# - DOMAIN,gamecdn.r6q.ubisoft.com
+  - DOMAIN,cdn.r6-live.aws.r6.ubi.com
+  - DOMAIN,gamecdn.r6q.ubisoft.com
+  # > Valorant
+  - DOMAIN,apse.pp.riotgames.com
+  - DOMAIN,lol.secure.dyn.riotcdn.net
+  - DOMAIN-SUFFIX,pvp.net
   # > WeChat
   - DOMAIN,dl.wechat.com
   - DOMAIN,res.servicewechat.com

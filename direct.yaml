@@ -21,6 +21,8 @@ payload:
   # ------
   # > 3HK
   - DOMAIN-SUFFIX,three.com.hk
+  # > 3MO
+  - DOMAIN-SUFFIX,three.com.mo
   # > App Store
   - DOMAIN,iosapps.itunes.apple.com
   # > CTMO

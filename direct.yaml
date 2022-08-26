@@ -29,9 +29,10 @@ payload:
   - DOMAIN,1888.com.mo
   - DOMAIN,wechat.ctcmo.com
   # > Giftcards
-  - DOMAIN-SUFFIX,turgame.com
-  - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,mtcgame.com
+  - DOMAIN-SUFFIX,oyunfor.com
+  - DOMAIN-SUFFIX,seagm.com
+  - DOMAIN-SUFFIX,turgame.com
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com

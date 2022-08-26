@@ -84,3 +84,4 @@ payload:
   - IP-CIDR,205.196.6.215/32,no-resolve
   # Ubisoft Connect
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+  - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn

@@ -29,6 +29,7 @@ payload:
   - DOMAIN,1888.com.mo
   - DOMAIN,wechat.ctcmo.com
   # > Giftcards
+  - DOMAIN-SUFFIX,hepsiburada.com
   - DOMAIN-SUFFIX,mtcgame.com
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,seagm.com

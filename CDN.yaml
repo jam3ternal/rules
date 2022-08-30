@@ -80,7 +80,7 @@ payload:
   - IP-CIDR,190.217.33.69/32,no-resolve
   - IP-CIDR,205.185.194.197/32,no-resolve
   - IP-CIDR,205.185.194.213/32,no-resolve
-  - IP-CIDR,205.196.6.214/32,no-resolve
+# - IP-CIDR,205.196.6.214/32,no-resolve
   - IP-CIDR,205.196.6.215/32,no-resolve
   # Ubisoft Connect
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com

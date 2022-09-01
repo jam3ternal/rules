@@ -71,9 +71,9 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
-  # > Replika
-# - DOMAIN-SUFFIX,replika.ai
-# - DOMAIN-SUFFIX,replika.com
+  # > Roblox
+  - DOMAIN-SUFFIX,rbxcdn.com
+  - DOMAIN-SUFFIX,roblox.com
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com

@@ -39,7 +39,7 @@ payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
   # > Mobile Legends
-  - DOMAIN,ip.ml.youngjoygame.com
+  - DOMAIN,report.ml.youngjoygame.com
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

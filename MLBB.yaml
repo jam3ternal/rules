@@ -1,3 +1,5 @@
 payload:
   # > MLBB
-  - '.ml.youngjoygame.com'
+  - '+.youngjoygame.com'
+# - '.ml.youngjoygame.com'
+  - '+.bytegsdk.com'

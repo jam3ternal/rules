@@ -40,6 +40,7 @@ payload:
   - DOMAIN,sms.imagetasks.com
   # > MLBB
   - IP-CIDR,164.52.39.101,no-resolve
+  - IP-CIDR,169.46.193.244,no-resolve
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

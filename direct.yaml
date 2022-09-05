@@ -39,6 +39,7 @@ payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
   # > MLBB
+  - DOMAIN-SUFFIX,bytegsdk.com
   - IP-CIDR,164.52.39.101/32,no-resolve
   - IP-CIDR,169.46.193.244/32,no-resolve
   # > Private Tracker

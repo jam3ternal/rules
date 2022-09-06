@@ -1,6 +1,6 @@
 payload:
   # > MLBB
   - '.ml.youngjoygame.com'
-# - '.bytegsdk.com'
-# - 'ml.aihelp.net'
+  - '.bytegsdk.com'
+  - 'ml.aihelp.net'
 # - 'amp-api.apps.apple.com'

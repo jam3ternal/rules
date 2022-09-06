@@ -1,5 +1,10 @@
 payload:
   # > MLBB
-  - '+.youngjoygame.com'
-# - '.ml.youngjoygame.com'
-# - '+.bytegsdk.com'
+  - DOMAIN-SUFFIX,ml.youngjoygame.com
+  - DOMAIN-SUFFIX,bytegsdk.com
+  - DOMAIN,ml.aihelp.net
+# - DOMAIN,firebaselogging-pa.googleapis.com
+# - DOMAIN,graph.facebook.com
+  - IP-CIDR,169.46.193.244/32
+    # > Tokyo
+    - IP-CIDR,124.156.209.121/32

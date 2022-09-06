@@ -7,4 +7,4 @@ payload:
 # - DOMAIN,graph.facebook.com
   - IP-CIDR,169.46.193.244/32
     # > Tokyo
-    - IP-CIDR,124.156.209.121/32
+  - IP-CIDR,124.156.209.121/32

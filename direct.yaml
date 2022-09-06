@@ -107,7 +107,7 @@ payload:
   # > Valorant
   - DOMAIN,apse.pp.riotgames.com
   - DOMAIN,lol.secure.dyn.riotcdn.net
-# - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,pvp.net
   # > WeChat
   - DOMAIN,dl.wechat.com
   - DOMAIN,res.servicewechat.com

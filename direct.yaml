@@ -38,10 +38,6 @@ payload:
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
-  # > MLBB
-# - DOMAIN-SUFFIX,bytegsdk.com
-# - IP-CIDR,164.52.39.101/32,no-resolve
-# - IP-CIDR,169.46.193.244/32,no-resolve
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv
@@ -90,10 +86,25 @@ payload:
   # > Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
+  - DOMAIN,r6s1.battleye.com
+  - DOMAIN-KEYWORD,pfmsq
+  - DOMAIN,pfmsqos.westus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southeastasia.cloudapp.azure.com
+  - DOMAIN,pfmsqos.japaneast.cloudapp.azure.com
+  - DOMAIN,pfmsqos.westeurope.cloudapp.azure.com
+  - DOMAIN,pfmsqssi.uaenorth.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southafricanorth.cloudapp.azure.com
+  - DOMAIN,pfmsqos.northeurope.cloudapp.azure.com
+  - DOMAIN,pfmsqos.eastasia.cloudapp.azure.com
+  - DOMAIN,pfmsqos.eastus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.centralus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.australiaeast.cloudapp.azure.com
+  - DOMAIN,pfmsqos.brazilsouth.cloudapp.azure.com
   # > Valorant
   - DOMAIN,apse.pp.riotgames.com
   - DOMAIN,lol.secure.dyn.riotcdn.net
-  - DOMAIN-SUFFIX,pvp.net
+# - DOMAIN-SUFFIX,pvp.net
   # > WeChat
   - DOMAIN,dl.wechat.com
   - DOMAIN,res.servicewechat.com

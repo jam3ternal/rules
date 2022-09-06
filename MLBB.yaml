@@ -1,6 +1,6 @@
 payload:
   # > MLBB
-  - DOMAIN-SUFFIX,ml.youngjoygame.com
-  - DOMAIN-SUFFIX,bytegsdk.com
-  - DOMAIN,ml.aihelp.net
-# - DOMAIN,amp-api.apps.apple.com
+  - '.ml.youngjoygame.com'
+  - '.bytegsdk.com'
+  - 'ml.aihelp.net'
+# - 'amp-api.apps.apple.com'

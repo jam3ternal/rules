@@ -5,6 +5,7 @@ payload:
   - DOMAIN,ml.aihelp.net
 # - DOMAIN,firebaselogging-pa.googleapis.com
 # - DOMAIN,graph.facebook.com
+  - DOMAIN,amp-api.apps.apple.com
   - IP-CIDR,169.46.193.244/32
     # > Tokyo
   - IP-CIDR,124.156.209.121/32

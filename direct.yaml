@@ -81,12 +81,15 @@ payload:
   - IP-CIDR,182.254.116.0/24,no-resolve
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
-  # > Ubisoft
-# - DOMAIN,store.ubi.com
   # > Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
   - DOMAIN,r6s1.battleye.com
+  - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
+    # > Singapore
+  - IP-CIDR,52.163.96.153/32,no-resolve
+    # > Chicago
+  - IP-CIDR,52.162.82.248/32,no-resolve
   - DOMAIN-KEYWORD,pfmsq
   - DOMAIN,pfmsqos.westus.cloudapp.azure.com
   - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com

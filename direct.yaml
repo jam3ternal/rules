@@ -38,6 +38,8 @@ payload:
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
+  # > Minecraft Server(s)
+  - DOMAIN,skyblock.budgie.network
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

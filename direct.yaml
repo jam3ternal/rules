@@ -71,6 +71,8 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  # > Roblox
+  - DOMAIN-SUFFIX,rbxcdn.com
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com
@@ -84,26 +86,22 @@ payload:
   # > Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
-  - DOMAIN,r6s1.battleye.com
-  - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
-    # > Singapore
-  - IP-CIDR,52.163.96.153/32,no-resolve
-    # > Chicago
-  - IP-CIDR,52.162.82.248/32,no-resolve
-  - DOMAIN-KEYWORD,pfmsq
-  - DOMAIN,pfmsqos.westus.cloudapp.azure.com
-  - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com
-  - DOMAIN,pfmsqos.southeastasia.cloudapp.azure.com
-  - DOMAIN,pfmsqos.japaneast.cloudapp.azure.com
-  - DOMAIN,pfmsqos.westeurope.cloudapp.azure.com
-  - DOMAIN,pfmsqssi.uaenorth.cloudapp.azure.com
-  - DOMAIN,pfmsqos.southafricanorth.cloudapp.azure.com
-  - DOMAIN,pfmsqos.northeurope.cloudapp.azure.com
-  - DOMAIN,pfmsqos.eastasia.cloudapp.azure.com
-  - DOMAIN,pfmsqos.eastus.cloudapp.azure.com
-  - DOMAIN,pfmsqos.centralus.cloudapp.azure.com
-  - DOMAIN,pfmsqos.australiaeast.cloudapp.azure.com
-  - DOMAIN,pfmsqos.brazilsouth.cloudapp.azure.com
+# - DOMAIN,r6s1.battleye.com
+# - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
+# - DOMAIN-KEYWORD,pfmsq
+# - DOMAIN,pfmsqos.westus.cloudapp.azure.com
+# - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com
+# - DOMAIN,pfmsqos.southeastasia.cloudapp.azure.com
+# - DOMAIN,pfmsqos.japaneast.cloudapp.azure.com
+# - DOMAIN,pfmsqos.westeurope.cloudapp.azure.com
+# - DOMAIN,pfmsqssi.uaenorth.cloudapp.azure.com
+# - DOMAIN,pfmsqos.southafricanorth.cloudapp.azure.com
+# - DOMAIN,pfmsqos.northeurope.cloudapp.azure.com
+# - DOMAIN,pfmsqos.eastasia.cloudapp.azure.com
+# - DOMAIN,pfmsqos.eastus.cloudapp.azure.com
+# - DOMAIN,pfmsqos.centralus.cloudapp.azure.com
+# - DOMAIN,pfmsqos.australiaeast.cloudapp.azure.com
+# - DOMAIN,pfmsqos.brazilsouth.cloudapp.azure.com
   # > Valorant
   - DOMAIN,apse.pp.riotgames.com
   - DOMAIN,lol.secure.dyn.riotcdn.net

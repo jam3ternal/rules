@@ -2,6 +2,7 @@
   - AND,((NETWORK,UDP),(IP-CIDR,13.248.197.71/32,no-resolve))
   - AND,((NETWORK,UDP),(IP-CIDR,13.248.205.128/32,no-resolve))
   - AND,((NETWORK,UDP),(IP-CIDR,13.248.220.97/32,no-resolve))
+  - AND,((NETWORK,UDP),(IP-CIDR,13.250.204.244/32,no-resolve))
   - AND,((NETWORK,UDP),(IP-CIDR,151.106.248.1/32,no-resolve))
   - AND,((NETWORK,UDP),(IP-CIDR,43.229.65.1/32,no-resolve)) #HK
   - AND,((NETWORK,UDP),(IP-CIDR,75.2.49.107/32,no-resolve))

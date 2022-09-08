@@ -42,6 +42,7 @@ payload:
   - DOMAIN,skyblock.budgie.network
   # > MLBB
   - IP-CIDR,150.109.112.162/32,no-resolve #HK
+  - IP-CIDR,150.109.113.214/32,no-resolve #HK
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

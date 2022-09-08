@@ -77,7 +77,7 @@ payload:
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
   # > Roblox
-  - DOMAIN-SUFFIX,rbxcdn.com
+# - DOMAIN-SUFFIX,rbxcdn.com
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com

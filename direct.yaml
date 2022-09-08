@@ -40,6 +40,8 @@ payload:
   - DOMAIN,sms.imagetasks.com
   # > Minecraft Server(s)
   - DOMAIN,skyblock.budgie.network
+  # > MLBB
+  - IP-CIDR,150.109.112.162/32,no-resolve #HK
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv

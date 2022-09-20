@@ -39,7 +39,6 @@ payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
   # > Minecraft Server(s)
-  - DOMAIN,skyblock.budgie.network
   # > MLBB
   - IP-CIDR,150.109.112.162/32,no-resolve #HK
   - IP-CIDR,150.109.113.214/32,no-resolve #HK

@@ -14,6 +14,7 @@ payload:
   - DOMAIN,steamstatic.com.8686c.com
   - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
   - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN,steamdeck-images.steamos.cloud
 # - IP-CIDR,103.10.124.162/32,no-resolve
 # - IP-CIDR,103.10.124.163/32,no-resolve
 # - IP-CIDR,103.10.124.164/32,no-resolve

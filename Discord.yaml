@@ -1,7 +1,7 @@
 payload:
   # > Discord Voice-Chat
-  - '66.22.221.21' # Singapore
-# - '66.22.230.24' # Seattle
-  - '66.22.232.5' # Sydney
-  - '66.22.221.68' # Singapore
-  - '66.22.247.4' # Sydney
+  - '66.22.221.21/32' # Singapore
+# - '66.22.230.24/32' # Seattle
+  - '66.22.232.5/32' # Sydney
+  - '66.22.221.68/32' # Singapore
+  - '66.22.247.4/32' # Sydney

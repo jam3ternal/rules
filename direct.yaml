@@ -28,8 +28,9 @@ payload:
   # > CTMO
   - DOMAIN,1888.com.mo
   - DOMAIN,wechat.ctcmo.com
-  # > Destiny Child Global
+  # > Destiny Child
   - DOMAIN-SUFFIX,real.dcgl.shiftupcorp.com
+  - DOMAIN-SUFFIX,real.dckr.shiftupcorp.com
   # > Giftcards
   - DOMAIN-SUFFIX,hepsiburada.com
   - DOMAIN-SUFFIX,mtcgame.com

@@ -5,3 +5,4 @@ payload:
   - '66.22.232.5/32' # Sydney
   - '66.22.221.68/32' # Singapore
   - '66.22.247.4/32' # Sydney
+  - '66.22.220.61' # Singapore

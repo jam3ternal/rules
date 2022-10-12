@@ -1,0 +1,5 @@
+payload:
+  # > Battle.net
+  - '.battle.net'
+  - 'blzprofile.akamaized.net'
+  - '.blizzard.com'

@@ -83,6 +83,8 @@ payload:
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com
+  # > Taobao Steam Wallet Balance Top-up
+  - DOMAIN-SUFFIX,yousheng.shop
   # > Subscription
   - DOMAIN,jmssub.net
   - DOMAIN,subs.usero.cn

@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,three.com.mo
   # > App Store
   - DOMAIN,iosapps.itunes.apple.com
+  # > AlipayHK
+  - DOMAIN-SUFFIX,alipay.hk
   # > CTMO
   - DOMAIN,1888.com.mo
   - DOMAIN,wechat.ctcmo.com

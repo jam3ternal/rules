@@ -1,5 +1,4 @@
 payload:
-  - SRC-IP-CIDR,192.168.2.200/32
   # China Area Network
   - DOMAIN,ctrip.com
   - DOMAIN-SUFFIX,flyert.com
@@ -44,10 +43,8 @@ payload:
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com
-  # > Minecraft Server(s)
-  # > MLBB
-  - IP-CIDR,150.109.112.162/32,no-resolve #HK
-  - IP-CIDR,150.109.113.214/32,no-resolve #HK
+  # > Nintendo
+  - DOMAIN-SUFFIX,nintendo.net
   # > Private Tracker
   - DOMAIN-SUFFIX,acg.rip
   - DOMAIN-SUFFIX,animebytes.tv
@@ -81,8 +78,6 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
-  # > Roblox
-# - DOMAIN-SUFFIX,rbxcdn.com
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com

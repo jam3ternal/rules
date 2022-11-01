@@ -40,6 +40,8 @@ payload:
   - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-SUFFIX,turgame.com
   - DOMAIN,sanalpos.halkbank.com.tr
+  # > iCloud Backup
+  - DOMAIN-SUFFIX,icloud-content.com
   # > IP Query
   - DOMAIN,ip.istatmenus.app
   - DOMAIN,sms.imagetasks.com

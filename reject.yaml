@@ -1,0 +1,3 @@
+payload:
+  # > reject
+  - DOMAIN-SUFFIX,footprintdns.com

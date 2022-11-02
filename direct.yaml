@@ -1,9 +1,4 @@
 payload:
-  - AND,((NETWORK,UDP),(RULE-SET,NTP)),DIRECT
-  - AND,((NETWORK,UDP),(GEOIP,facebook)),DIRECT
-  - AND,((NETWORK,UDP),(IP-CIDR,17.0.0.0/8,no-resolve)),DIRECT
-  - AND,((NETWORK,UDP),(DOMAIN,stun.l.google.com)),DIRECT
-  - AND,((NETWORK,UDP),(DST-PORT,443),(RULE-SET,Private_Relay_QUIC)),DIRECT
   # China Area Network
   - DOMAIN,ctrip.com
   - DOMAIN-SUFFIX,flyert.com

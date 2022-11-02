@@ -29,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,alipay.hk
   # > CTMO
   - DOMAIN,aas.bocmacau.com
+  - DOMAIN,mba.bocmacau.com
+  - DOMAIN,mobilepayment2.icbc.com.mo
   - DOMAIN,openapi.chinatelecom.com.mo
   - DOMAIN,wechat.ctcmo.com
   - DOMAIN,www.1888.com.mo

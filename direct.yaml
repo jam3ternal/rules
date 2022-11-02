@@ -105,6 +105,7 @@ payload:
   - DOMAIN,pc-promo.ubisoft.com
   - DOMAIN,public-ubiservices.ubi.com
   - DOMAIN,public-ws-ubiservices.ubi.com
+  - DOMAIN,static3.cdn.ubi.com
   - DOMAIN,static.a.upc.ubisoft.com
   - DOMAIN,static-webservicesops.akamaized.net
   - DOMAIN,store.ubi.com

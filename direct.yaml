@@ -27,8 +27,6 @@ payload:
   - DOMAIN,iosapps.itunes.apple.com
   # > AlipayHK
   - DOMAIN-SUFFIX,alipay.hk
-  # > bilibili
-  - DOMAIN,passport.bilibili.cn
   # > CTMO
   - DOMAIN,aas.bocmacau.com
   - DOMAIN,mba.bocmacau.com

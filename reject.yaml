@@ -6,3 +6,4 @@ payload:
   - DOMAIN,ls.dtrace.nvidia.com
   - DOMAIN,mas-ext.amazon.com
   - DOMAIN,msh.amazon.com
+  - DOMAIN,metric-api.newrelic.com

@@ -3,3 +3,6 @@ payload:
   - DOMAIN-SUFFIX,footprintdns.com
   - DOMAIN,kinesis.us-east-1.amazonaws.com
   - DOMAIN,toblog.ctobsnssdk.com
+  - DOMAIN,ls.dtrace.nvidia.com
+  - DOMAIN,mas-ext.amazon.com
+  - DOMAIN,msh.amazon.com

@@ -7,3 +7,4 @@ payload:
   - DOMAIN,mas-ext.amazon.com
   - DOMAIN,msh.amazon.com
   - DOMAIN,metric-api.newrelic.com
+  - DOMAIN,data.riotgames.com

@@ -96,25 +96,42 @@ payload:
   - IP-CIDR,182.254.116.0/24,no-resolve
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
+  # > Ubisoft
+  - DOMAIN,channel-service.upc.ubi.com
+  - DOMAIN,connect.ubisoft.com
+  - DOMAIN,dmx.upc.ubisoft.com
+  - DOMAIN,news-page-themes-api.a.upc.ubisoft.com
+  - DOMAIN,overlay.cdn.ubisoft.com
+  - DOMAIN,pc-promo.ubisoft.com
+  - DOMAIN,public-ubiservices.ubi.com
+  - DOMAIN,public-ws-ubiservices.ubi.com
+  - DOMAIN,static.a.upc.ubisoft.com
+  - DOMAIN,static-webservicesops.akamaized.net
+  - DOMAIN,store.ubi.com
+  - DOMAIN,ubiservices.cdn.ubi.com
+  - DOMAIN,ubisoft-avatars.akamaized.net
+  - DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+  - DOMAIN,ubistatic3-a.akamaihd.net
+  - DOMAIN,wallet.ecom.ubi.com
   # > Ubisoft In-Game
   - DOMAIN,cdn.r6-live.aws.r6.ubi.com
   - DOMAIN,gamecdn.r6q.ubisoft.com
-# - DOMAIN,r6s1.battleye.com
-# - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
-# - DOMAIN-KEYWORD,pfmsq
-# - DOMAIN,pfmsqos.westus.cloudapp.azure.com
-# - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com
-# - DOMAIN,pfmsqos.southeastasia.cloudapp.azure.com
-# - DOMAIN,pfmsqos.japaneast.cloudapp.azure.com
-# - DOMAIN,pfmsqos.westeurope.cloudapp.azure.com
-# - DOMAIN,pfmsqssi.uaenorth.cloudapp.azure.com
-# - DOMAIN,pfmsqos.southafricanorth.cloudapp.azure.com
-# - DOMAIN,pfmsqos.northeurope.cloudapp.azure.com
-# - DOMAIN,pfmsqos.eastasia.cloudapp.azure.com
-# - DOMAIN,pfmsqos.eastus.cloudapp.azure.com
-# - DOMAIN,pfmsqos.centralus.cloudapp.azure.com
-# - DOMAIN,pfmsqos.australiaeast.cloudapp.azure.com
-# - DOMAIN,pfmsqos.brazilsouth.cloudapp.azure.com
+  - DOMAIN,r6s1.battleye.com
+  - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
+  - DOMAIN-KEYWORD,pfmsq
+  - DOMAIN,pfmsqos.westus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southcentralus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southeastasia.cloudapp.azure.com
+  - DOMAIN,pfmsqos.japaneast.cloudapp.azure.com
+  - DOMAIN,pfmsqos.westeurope.cloudapp.azure.com
+  - DOMAIN,pfmsqssi.uaenorth.cloudapp.azure.com
+  - DOMAIN,pfmsqos.southafricanorth.cloudapp.azure.com
+  - DOMAIN,pfmsqos.northeurope.cloudapp.azure.com
+  - DOMAIN,pfmsqos.eastasia.cloudapp.azure.com
+  - DOMAIN,pfmsqos.eastus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.centralus.cloudapp.azure.com
+  - DOMAIN,pfmsqos.australiaeast.cloudapp.azure.com
+  - DOMAIN,pfmsqos.brazilsouth.cloudapp.azure.com
   # > Valorant
   - DOMAIN,apse.pp.riotgames.com
   - DOMAIN,lol.secure.dyn.riotcdn.net

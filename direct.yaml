@@ -32,9 +32,10 @@ payload:
   - DOMAIN,iosapps.itunes.apple.com
   # > AlipayHK
   - DOMAIN-SUFFIX,alipay.hk
-  # > CTMO
-  - DOMAIN,www.1888.com.mo
+  # > CTM
+  - DOMAIN,openapi.chinatelecom.com.mo
   - DOMAIN,wechat.ctcmo.com
+  - DOMAIN,www.1888.com.mo
   # > Destiny Child
   - DOMAIN-SUFFIX,real.dcgl.shiftupcorp.com
   - DOMAIN-SUFFIX,real.dckr.shiftupcorp.com

@@ -110,13 +110,9 @@ payload:
   - DOMAIN,store.ubi.com
   - DOMAIN,ubiservices.cdn.ubi.com
   - DOMAIN,wallet.ecom.ubi.com
-  # > Ubisoft In-Game
-  - DOMAIN,cdn.r6-live.aws.r6.ubi.com
-  - DOMAIN,gamecdn.r6q.ubisoft.com
+  # > Tom Clancy's Rainbow Six Siege
   - DOMAIN,r6s1.battleye.com
   - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
-  - DOMAIN,r6e1.battleye.com
-  - DOMAIN,lb-rdv-pioneer-prod.ubisoft.com
   - DOMAIN-KEYWORD,pfmsqos
   - DOMAIN,pfmsqosprod1-0.australiaeast.cloudapp.azure.com
   - DOMAIN,pfmsqosprod1-0.brazilsouth.cloudapp.azure.com
@@ -131,6 +127,15 @@ payload:
   - DOMAIN,pfmsqosprod1-0.uaenorth.cloudapp.azure.com
   - DOMAIN,pfmsqosprod1-0.westeurope.cloudapp.azure.com
   - DOMAIN,pfmsqosprod1-0.westus.cloudapp.azure.com
+  # > Tom Clancy's Rainbow Six Extraction
+  - DOMAIN,r6e1.battleye.com
+  - DOMAIN,lb-rdv-pioneer-prod.ubisoft.com
+  - DOMAIN,ec2.ap-northeast-1.amazonaws.com
+  - DOMAIN,ec2.ap-southeast-2.amazonaws.com
+  - DOMAIN,ec2.eu-central-1.amazonaws.com
+  - DOMAIN,ec2.sa-east-1.amazonaws.com
+  - DOMAIN,ec2.us-west-2.amazonaws.com
+  - DOMAIN,ec2.us-east-1.amazonaws.com
   # > Valorant
   - DOMAIN,apse.pp.riotgames.com
   - DOMAIN,lol.secure.dyn.riotcdn.net

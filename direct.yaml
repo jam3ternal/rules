@@ -32,7 +32,8 @@ payload:
   - DOMAIN,iosapps.itunes.apple.com
   # > AlipayHK
   - DOMAIN-SUFFIX,alipay.hk
-  # > CTM
+  # > CTMO
+  - DOMAIN,aas.bocmacau.com
   - DOMAIN,openapi.chinatelecom.com.mo
   - DOMAIN,wechat.ctcmo.com
   - DOMAIN,www.1888.com.mo

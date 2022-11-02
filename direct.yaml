@@ -137,9 +137,9 @@ payload:
   - DOMAIN,ec2.us-west-2.amazonaws.com
   - DOMAIN,ec2.us-east-1.amazonaws.com
   # > Valorant
-  - DOMAIN,apse.pp.riotgames.com
-  - DOMAIN,lol.secure.dyn.riotcdn.net
-  - DOMAIN-SUFFIX,pvp.net
+# - DOMAIN,apse.pp.riotgames.com
+# - DOMAIN,lol.secure.dyn.riotcdn.net
+# - DOMAIN-SUFFIX,pvp.net
   # > WeChat
   - DOMAIN,dl.wechat.com
   - DOMAIN,res.servicewechat.com

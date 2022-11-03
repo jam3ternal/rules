@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,cn
   # China Area Network
   - DOMAIN,ctrip.com
   - DOMAIN-SUFFIX,flyert.com

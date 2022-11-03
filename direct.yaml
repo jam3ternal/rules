@@ -84,14 +84,17 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  # > Smart Lock
+  - DOMAIN,coap.samsungihp.cn
+  - DOMAIN,iot.samsungihp.cn
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com
-  # > Taobao Steam Wallet Balance Top-up
-  - DOMAIN-SUFFIX,yousheng.shop
   # > Subscription
   - DOMAIN,jmssub.net
   - DOMAIN,subs.usero.cn
+  # > Taobao Steam Wallet Balance Top-up
+  - DOMAIN-SUFFIX,yousheng.shop
   # > Tencent
   - IP-CIDR,182.254.116.0/24,no-resolve
   - IP-CIDR,203.205.238.0/23,no-resolve

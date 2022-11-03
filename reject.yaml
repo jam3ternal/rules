@@ -8,3 +8,4 @@ payload:
   - DOMAIN,msh.amazon.com
   - DOMAIN,metric-api.newrelic.com
   - DOMAIN,data.riotgames.com
+  - DOMAIN,10084.x.adanxing.com

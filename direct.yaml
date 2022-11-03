@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,lzmh.lz-qs.com
   # China Area Network
   - DOMAIN,ctrip.com
   - DOMAIN-SUFFIX,flyert.com

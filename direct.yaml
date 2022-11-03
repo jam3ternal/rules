@@ -1,7 +1,7 @@
 payload:
   - DOMAIN,lzmh.lz-qs.com
   - DOMAIN,yuudnn.lz-qs.com
-  - DOMAIN,bilibilihelper.com
+# - DOMAIN,bilibilihelper.com
   # China Area Network
   - DOMAIN,ctrip.com
   - DOMAIN-SUFFIX,flyert.com

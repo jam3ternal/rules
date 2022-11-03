@@ -100,20 +100,21 @@ payload:
   - IP-CIDR,203.205.238.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
   # > Ubisoft
-  - DOMAIN,channel-service.upc.ubi.com
-  - DOMAIN,connect.ubisoft.com
-  - DOMAIN,dmx.upc.ubisoft.com
-  - DOMAIN,news-page-themes-api.a.upc.ubisoft.com
-  - DOMAIN,overlay.cdn.ubisoft.com
-  - DOMAIN,pc-promo.ubisoft.com
-  - DOMAIN,public-ubiservices.ubi.com
-  - DOMAIN,public-ws-ubiservices.ubi.com
-  - DOMAIN,static3.cdn.ubi.com
-  - DOMAIN,static.a.upc.ubisoft.com
-  - DOMAIN,store.ubi.com
-  - DOMAIN,ubiservices.cdn.ubi.com
-  - DOMAIN,wallet-rewards.ecom.ubi.com
-  - DOMAIN,wallet.ecom.ubi.com
+# - DOMAIN,channel-service.upc.ubi.com
+# - DOMAIN,connect.ubisoft.com
+# - DOMAIN,dmx.upc.ubisoft.com
+# - DOMAIN,msr-public-ubiservices.ubi.com
+# - DOMAIN,news-page-themes-api.a.upc.ubisoft.com
+# - DOMAIN,overlay.cdn.ubisoft.com
+# - DOMAIN,pc-promo.ubisoft.com
+# - DOMAIN,public-ubiservices.ubi.com
+# - DOMAIN,public-ws-ubiservices.ubi.com
+# - DOMAIN,static3.cdn.ubi.com
+# - DOMAIN,static.a.upc.ubisoft.com
+# - DOMAIN,store.ubi.com
+# - DOMAIN,ubiservices.cdn.ubi.com
+# - DOMAIN,wallet-rewards.ecom.ubi.com
+# - DOMAIN,wallet.ecom.ubi.com
   # > Tom Clancy's Rainbow Six Siege
 # - DOMAIN,r6s1.battleye.com
 # - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
@@ -132,14 +133,14 @@ payload:
 # - DOMAIN,pfmsqosprod1-0.westeurope.cloudapp.azure.com
 # - DOMAIN,pfmsqosprod1-0.westus.cloudapp.azure.com
   # > Tom Clancy's Rainbow Six Extraction
-  - DOMAIN,r6e1.battleye.com
-  - DOMAIN,lb-rdv-pioneer-prod.ubisoft.com
-  - DOMAIN,ec2.ap-northeast-1.amazonaws.com
-  - DOMAIN,ec2.ap-southeast-2.amazonaws.com
-  - DOMAIN,ec2.eu-central-1.amazonaws.com
-  - DOMAIN,ec2.sa-east-1.amazonaws.com
-  - DOMAIN,ec2.us-west-2.amazonaws.com
-  - DOMAIN,ec2.us-east-1.amazonaws.com
+# - DOMAIN,r6e1.battleye.com
+# - DOMAIN,lb-rdv-pioneer-prod.ubisoft.com
+# - DOMAIN,ec2.ap-northeast-1.amazonaws.com
+# - DOMAIN,ec2.ap-southeast-2.amazonaws.com
+# - DOMAIN,ec2.eu-central-1.amazonaws.com
+# - DOMAIN,ec2.sa-east-1.amazonaws.com
+# - DOMAIN,ec2.us-west-2.amazonaws.com
+# - DOMAIN,ec2.us-east-1.amazonaws.com
   # > Valorant
 # - DOMAIN-SUFFIX,dyn.riotcdn.net
 # - DOMAIN-SUFFIX,ap.a.pvp.net

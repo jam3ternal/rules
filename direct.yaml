@@ -114,23 +114,6 @@ payload:
 # - DOMAIN,ubiservices.cdn.ubi.com
 # - DOMAIN,wallet-rewards.ecom.ubi.com
 # - DOMAIN,wallet.ecom.ubi.com
-  # > Tom Clancy's Rainbow Six Siege
-# - DOMAIN,r6s1.battleye.com
-# - DOMAIN,lb-rdv-r6-pc-ne1.ubisoft.com
-# - DOMAIN-KEYWORD,pfmsqos
-# - DOMAIN,pfmsqosprod1-0.australiaeast.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.brazilsouth.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.centralus.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.eastasia.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.eastus.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.japaneast.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.northeurope.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.southafricanorth.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.southcentralus.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.southeastasia.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.uaenorth.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.westeurope.cloudapp.azure.com
-# - DOMAIN,pfmsqosprod1-0.westus.cloudapp.azure.com
   # > Tom Clancy's Rainbow Six Extraction
 # - DOMAIN,r6e1.battleye.com
 # - DOMAIN,lb-rdv-pioneer-prod.ubisoft.com

@@ -9,21 +9,11 @@ payload:
   - DOMAIN,outlook.office365.com
   - DOMAIN,smtp-mail.outlook.com
   - DOMAIN,smtp.office365.com
-  # > Windows Server Update Services
-# - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-# - DOMAIN-SUFFIX,update.microsoft.com
-# - DOMAIN-SUFFIX,windowsupdate.com
-# - DOMAIN-SUFFIX,windowsupdate.microsoft.com
-# - DOMAIN,download.microsoft.com
-# - DOMAIN,wustat.windows.com
-# - DOMAIN,ntservicepack.microsoft.com
   # ------
   # > 3HK
   - DOMAIN-SUFFIX,three.com.hk
   # > 3MO
   - DOMAIN-SUFFIX,three.com.mo
-  # > App Store
-  - DOMAIN,iosapps.itunes.apple.com
   # > AlipayHK
   - DOMAIN-SUFFIX,alipay.hk
   # > CTMO
@@ -83,9 +73,6 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
-  # > Smart Lock
-# - DOMAIN,coap.samsungihp.cn
-# - DOMAIN,iot.samsungihp.cn
   # > Speed Test
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com

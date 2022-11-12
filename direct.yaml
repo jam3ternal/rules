@@ -3,6 +3,15 @@ payload:
   - '+.flyert.com'
   - '+.snapdrop.net'
   - 'download.jetbrains.com'
+  # ------(CDN)------
+  # Epic Games
+  - 'download.epicgames.com'
+  # Steam
+  - '.steamcontent.com'
+  - 'steamdeck-images.steamos.cloud'
+  # Ubisoft Connect
+  - 'uplaypc-s-ubisoft.cdn.ubi.com'
+  # -----------------
   # > 3HK
   - '+.three.com.hk'
   # > 3MO

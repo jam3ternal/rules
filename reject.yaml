@@ -2,7 +2,6 @@ payload:
   # > reject
   - '+.footprintdns.com'
   - 'kinesis.us-east-1.amazonaws.com'
-  - 'toblog.ctobsnssdk.com'
   - 'ls.dtrace.nvidia.com'
   - 'mas-ext.amazon.com'
   - 'msh.amazon.com'

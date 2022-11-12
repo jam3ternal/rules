@@ -1,9 +1,0 @@
-payload:
-  # > CDN
-  # Epic Games
-  - 'download.epicgames.com'
-  # Steam
-  - '.steamcontent.com'
-  - 'steamdeck-images.steamos.cloud'
-  # Ubisoft Connect
-  - 'uplaypc-s-ubisoft.cdn.ubi.com'

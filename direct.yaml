@@ -18,6 +18,7 @@ payload:
   - '+.three.com.mo'
   # > AlipayHK
   - '+.alipay.hk'
+  - '+.alipayhk.com'
   # > CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'

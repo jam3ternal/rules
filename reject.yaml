@@ -1,11 +1,11 @@
 payload:
   # > reject
-  - DOMAIN-SUFFIX,footprintdns.com
-  - DOMAIN,kinesis.us-east-1.amazonaws.com
-  - DOMAIN,toblog.ctobsnssdk.com
-  - DOMAIN,ls.dtrace.nvidia.com
-  - DOMAIN,mas-ext.amazon.com
-  - DOMAIN,msh.amazon.com
-  - DOMAIN,metric-api.newrelic.com
-  - DOMAIN,data.riotgames.com
-  - DOMAIN,10084.x.adanxing.com
+  - '+.footprintdns.com'
+  - 'kinesis.us-east-1.amazonaws.com'
+  - 'toblog.ctobsnssdk.com'
+  - 'ls.dtrace.nvidia.com'
+  - 'mas-ext.amazon.com'
+  - 'msh.amazon.com'
+  - 'metric-api.newrelic.com'
+  - 'data.riotgames.com'
+  - '10084.x.adanxing.com'

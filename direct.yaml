@@ -1,15 +1,8 @@
 payload:
   # China Area Network
   - DOMAIN-SUFFIX,flyert.com
-  - DOMAIN-SUFFIX,gandi.net
   - DOMAIN-SUFFIX,snapdrop.net
   - DOMAIN,download.jetbrains.com
-  # ---(Microsoft)---
-  # > Outlook
-  - DOMAIN,outlook.office365.com
-  - DOMAIN,smtp-mail.outlook.com
-  - DOMAIN,smtp.office365.com
-  # ------
   # > 3HK
   - DOMAIN-SUFFIX,three.com.hk
   # > 3MO
@@ -73,18 +66,12 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
-  # > Speed Test
-  - DOMAIN-SUFFIX,netspeedtestmaster.com
-  - DOMAIN,speedtest.macpaw.com
-  # > Subscription
-  - DOMAIN,jmssub.net
-  - DOMAIN,subs.usero.cn
   # > Taobao Steam Wallet Balance Top-up
   - DOMAIN-SUFFIX,yousheng.shop
   # > Tencent
-  - IP-CIDR,182.254.116.0/24,no-resolve
-  - IP-CIDR,203.205.238.0/23,no-resolve
-  - IP-CIDR,203.205.254.0/23,no-resolve
+# - IP-CIDR,182.254.116.0/24,no-resolve
+# - IP-CIDR,203.205.238.0/23,no-resolve
+# - IP-CIDR,203.205.254.0/23,no-resolve
   # > Ubisoft
 # - DOMAIN,channel-service.upc.ubi.com
 # - DOMAIN,connect.ubisoft.com
@@ -122,14 +109,3 @@ payload:
   - DOMAIN,sgminorshort.wechat.com
   - DOMAIN,sgshort.wechat.com
   - DOMAIN,tencentmap.wechat.com
-  - IP-CIDR,101.32.104.4/32,no-resolve
-  - IP-CIDR,101.32.104.41/32,no-resolve
-  - IP-CIDR,101.32.104.56/32,no-resolve
-  - IP-CIDR,101.32.104.104/32,no-resolve
-  - IP-CIDR,101.32.104.177/32,no-resolve
-  - IP-CIDR,101.32.118.25/32,no-resolve
-  - IP-CIDR,101.32.133.16/32,no-resolve
-  - IP-CIDR,101.32.133.209/32,no-resolve
-  - IP-CIDR,101.32.133.53/32,no-resolve
-  - IP-CIDR,129.226.107.244/32,no-resolve
-  - IP-CIDR,129.226.3.47/32,no-resolve

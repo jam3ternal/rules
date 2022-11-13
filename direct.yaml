@@ -1,7 +1,7 @@
 payload:
   # China Area Network
-  - '+.flyert.com'
-  - '+.snapdrop.net'
+  - '.flyert.com'
+  - 'snapdrop.net'
   - 'download.jetbrains.com'
   # ------(CDN)------
   # Epic Games

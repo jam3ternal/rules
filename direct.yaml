@@ -85,13 +85,5 @@ payload:
   - '203.205.238.0/23'
   - '203.205.254.0/23'
   # > Valorant
-# - '+.dyn.riotcdn.net'
-# - '+.ap.a.pvp.net'
-  # > WeChat
-#  - 'dl.wechat.com'
-#  - 'res.servicewechat.com'
-# - 'resstatic.servicewechat.com'
-# - 'sglong.wechat.com'
-# - 'sgminorshort.wechat.com'
-# - 'sgshort.wechat.com'
-# - 'tencentmap.wechat.com'
+  - '+.dyn.riotcdn.net'
+  - '+.ap.a.pvp.net'

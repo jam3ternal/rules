@@ -32,10 +32,12 @@ payload:
   - '+.real.dcgl.shiftupcorp.com'
   - '+.real.dckr.shiftupcorp.com'
   # > Giftcards
-  - '+.hepsiburada.com'
-  - '+.mtcgame.com'
+  - '.hepsiburada.com'
+  - '.hepsiburada.net'
+  - '.mtcgame.com'
   - '+.oyunfor.com'
-  - '+.seagm.com'
+  - '.seagm.com'
+  - '.seagmcdn.com'
   - '+.turgame.com'
   - 'sanalpos.halkbank.com.tr'
   # > iCloud Backup

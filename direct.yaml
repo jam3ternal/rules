@@ -1,4 +1,21 @@
 payload:
+  # > UPC
+  - 'channel-service.upc.ubi.com'
+  - 'connect.ubisoft.com'
+  - 'dmx.upc.ubisoft.com'
+  - 'msr-public-ubiservices.ubi.com'
+  - 'news-page-themes-api.a.upc.ubisoft.com'
+  - 'overlay.cdn.ubisoft.com'
+  - 'pc-promo.ubisoft.com'
+  - 'public-ubiservices.ubi.com'
+  - 'public-ws-ubiservices.ubi.com'
+  - 'static3.cdn.ubi.com'
+  - 'static8.cdn.ubi.com'
+  - 'static.a.upc.ubisoft.com'
+  - 'store.ubi.com'
+  - 'ubiservices.cdn.ubi.com'
+  - 'wallet-rewards.ecom.ubi.com'
+  - 'wallet.ecom.ubi.com'
   # China Area Network
   - '.flyert.com'
   - 'snapdrop.net'

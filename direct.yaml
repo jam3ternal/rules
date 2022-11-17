@@ -6,6 +6,8 @@ payload:
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'
+  # GeForce Experience
+  - '+.download.nvidia.com'
   # Steam
   - '.steamcontent.com'
   - 'steamdeck-images.steamos.cloud'

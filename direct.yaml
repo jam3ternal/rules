@@ -84,5 +84,8 @@ payload:
   - '203.205.238.0/23'
   - '203.205.254.0/23'
   # > Valorant
-  - '+.dyn.riotcdn.net'
-  - '+.ap.a.pvp.net'
+  - '.dyn.riotcdn.net'
+  - '.ap.a.pvp.net'
+  # > Vivox
+  - '*.www.vivox.com'
+  - '*.vivox.com'

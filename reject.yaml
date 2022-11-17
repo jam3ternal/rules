@@ -8,3 +8,4 @@ payload:
   - 'metric-api.newrelic.com'
   - 'data.riotgames.com'
   - '10084.x.adanxing.com'
+  - 'smetrics.ubi.com'

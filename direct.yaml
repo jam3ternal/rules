@@ -1,24 +1,4 @@
 payload:
-  # > UPC
-  - 'channel-service.upc.ubi.com'
-  - 'connect.ubisoft.com'
-  - 'dmx.upc.ubisoft.com'
-  - 'msr-public-ubiservices.ubi.com'
-  - 'news-page-themes-api.a.upc.ubisoft.com'
-  - 'overlay.cdn.ubisoft.com'
-  - 'pc-promo.ubisoft.com'
-  - 'public-ubiservices.ubi.com'
-  - 'public-ws-ubiservices.ubi.com'
-  - 'static3.cdn.ubi.com'
-  - 'static8.cdn.ubi.com'
-  - 'static8.ubi.com'
-  - 'static.a.upc.ubisoft.com'
-  - 'store.ubi.com'
-  - 'ubiservices.cdn.ubi.com'
-  - 'ubisoft-avatars.akamaized.net'
-  - 'ubistatic3-a.akamaihd.net'
-  - 'wallet-rewards.ecom.ubi.com'
-  - 'wallet.ecom.ubi.com'
   # China Area Network
   - '.flyert.com'
   - 'snapdrop.net'
@@ -107,5 +87,4 @@ payload:
   - '.dyn.riotcdn.net'
   - '.ap.a.pvp.net'
   # > Vivox
-  - '*.www.vivox.com'
-  - '*.vivox.com'
+  - '.vivox.com'

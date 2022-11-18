@@ -7,6 +7,7 @@ payload:
   - '+.download.nvidia.com'
   # Steam
   - '.steamcontent.com'
+  - '.steamserver.net'
   - 'steamdeck-images.steamos.cloud'
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'

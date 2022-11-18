@@ -45,11 +45,6 @@ payload:
   - '.seagmcdn.com'
   - '+.turgame.com'
   - 'sanalpos.halkbank.com.tr'
-  # > iCloud Backup
-  - '+.icloud-content.com'
-  # > IP Query
-  - 'ip.istatmenus.app'
-  - 'sms.imagetasks.com'
   # > Nintendo
   - '+.nintendo.net'
   # > Private Tracker

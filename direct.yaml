@@ -45,6 +45,10 @@ payload:
   - '.seagmcdn.com'
   - '+.turgame.com'
   - 'sanalpos.halkbank.com.tr'
+  # > iCloud Backup
+  - 'us-ore-00001.s3.dualstack.us-west-2.amazonaws.com'
+  - 'gcs-us-00003.content-storage-upload.googleapis.com'
+  - 'photos.googleapis.com'
   # > Nintendo
   - '+.nintendo.net'
   # > Private Tracker

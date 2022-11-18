@@ -29,7 +29,12 @@ payload:
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
   # > DLsite
-  - '+.dlsite.com'
+  - 'ci-en.net'
+  - '.dlsite.com'
+  - '+.eisys-bcs.jp'
+  - 'img.dlsite.jp'
+  - '+.chobit.cc'
+  - 'media.ci-en.jp'
   - '+.tongren.jp'
   # > Giftcards
   - '.hepsiburada.com'

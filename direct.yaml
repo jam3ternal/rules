@@ -1,8 +1,5 @@
 payload:
-  # China Area Network
-  - '.flyert.com'
-  - 'snapdrop.net'
-  - 'download.jetbrains.com'
+  # > direct
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'
@@ -14,6 +11,9 @@ payload:
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   # -----------------
+  - '.flyert.com'
+  - 'snapdrop.net'
+  - 'download.jetbrains.com'
   # > 3HK
   - '+.three.com.hk'
   # > 3MO
@@ -26,8 +26,11 @@ payload:
   - 'wechat.ctcmo.com'
   - 'www.1888.com.mo'
   # > Destiny Child
-  - '+.real.dcgl.shiftupcorp.com'
-  - '+.real.dckr.shiftupcorp.com'
+  - '.real.dcgl.shiftupcorp.com'
+  - '.real.dckr.shiftupcorp.com'
+  # > DLsite
+  - '+.dlsite.com'
+  - '+.tongren.jp'
   # > Giftcards
   - '.hepsiburada.com'
   - '.hepsiburada.net'
@@ -43,7 +46,7 @@ payload:
   - 'ip.istatmenus.app'
   - 'sms.imagetasks.com'
   # > Nintendo
-# - '+.nintendo.net'
+  - '+.nintendo.net'
   # > Private Tracker
   - '+.acg.rip'
   - '+.animebytes.tv'

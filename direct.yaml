@@ -30,7 +30,7 @@ payload:
   - '.real.dckr.shiftupcorp.com'
   # > DLsite
   - 'ci-en.net'
-  - '.dlsite.com'
+  - '+.dlsite.com'
   - '+.eisys-bcs.jp'
   - 'img.dlsite.jp'
   - '+.chobit.cc'

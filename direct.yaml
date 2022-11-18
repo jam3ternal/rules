@@ -89,5 +89,6 @@ payload:
   # > Valorant
   - '.dyn.riotcdn.net'
   - '.ap.a.pvp.net'
+  - 'valorant.dyn.riotcdn.net'
   # > Vivox
   - '.vivox.com'

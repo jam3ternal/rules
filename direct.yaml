@@ -1,12 +1,7 @@
 payload:
   # > direct
-  - 'steambroadcast.akamaized.net'
-  - 'steamcdn-a.akamaihd.net'
-  - 'steamcommunity-a.akamaihd.net'
-  - 'steamstore-a.akamaihd.net'
-  - 'steamusercontent-a.akamaihd.net'
-  - 'steamuserimages-a.akamaihd.net'
-  - 'steamvideo-a.akamaihd.net'
+  - '.cloudflare.steamstatic.com'
+  - '.akamai.steamstatic.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

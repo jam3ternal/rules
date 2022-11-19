@@ -91,7 +91,7 @@ payload:
   - '+.tjupt.org'
   - '+.totheglory.im'
   # > Taobao Steam Wallet Balance Top-up
-  - '+.yousheng.shop'
+  - '.yousheng.shop'
   # > Tencent
   - '182.254.116.0/24'
   - '203.205.238.0/23'

@@ -56,7 +56,7 @@ payload:
   - 'sanalpos.halkbank.com.tr'
   # > Nintendo
   - '+.nintendo.net'
-  # > Private Tracker
+  # > Private Trackers
   - '+.acg.rip'
   - '+.animebytes.tv'
   - '+.awesome-hd.me'

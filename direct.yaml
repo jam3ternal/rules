@@ -1,7 +1,5 @@
 payload:
   # > direct
-  - '.cloudflare.steamstatic.com'
-  - '.akamai.steamstatic.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'
@@ -10,6 +8,14 @@ payload:
   # Steam
   - '.steamcontent.com'
   - 'steamdeck-images.steamos.cloud'
+  - '.akamai.steamstatic.com'
+  - '.cloudflare.steamstatic.com'
+  - 'video.steamstatic.com'
+  - 'steambroadcast.akamaized.net'
+  - 'steambroadcastchat.akamaized.net'
+  - 'steamcdn-a.akamaihd.net'
+  - 'steammobile.akamaized.net'
+  - 'steamuserimages-a.akamaihd.net'
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   # -----------------

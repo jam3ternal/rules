@@ -16,6 +16,7 @@ payload:
   - 'store.ubi.com'
   - 'ubiservices.cdn.ubi.com'
   - 'ubisoft-avatars.akamaized.net'
+  - 'ubistatic2-a.akamaihd.net'
   - 'ubistatic3-a.akamaihd.net'
   - 'wallet-rewards.ecom.ubi.com'
   - 'wallet.ecom.ubi.com'

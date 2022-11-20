@@ -8,8 +8,8 @@ payload:
   # Steam
   - '.steamcontent.com'
   - 'steamdeck-images.steamos.cloud'
-  - '.akamai.steamstatic.com'
-  - '.cloudflare.steamstatic.com'
+  - '*.akamai.steamstatic.com'
+  - '*.cloudflare.steamstatic.com'
   - 'community.steamstatic.com'
   - 'video.steamstatic.com'
   - 'steam-chat.com'

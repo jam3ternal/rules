@@ -16,6 +16,7 @@ payload:
   - 'steamcdn-a.akamaihd.net'
   - 'steamcommunity-a.akamaihd.net'
   - 'steammobile.akamaized.net'
+  - 'steamstore-a.akamaihd.net'
   - 'steamuserimages-a.akamaihd.net'
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'

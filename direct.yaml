@@ -11,6 +11,7 @@ payload:
   - '.akamai.steamstatic.com'
   - '.cloudflare.steamstatic.com'
   - 'video.steamstatic.com'
+  - 'steam-chat.com'
   - 'steambroadcast.akamaized.net'
   - 'steambroadcastchat.akamaized.net'
   - 'steamcdn-a.akamaihd.net'

@@ -57,7 +57,7 @@ payload:
   - '.seagmcdn.com'
   - '+.turgame.com'
   - 'sanalpos.halkbank.com.tr'
-  # Microsoft Store
+  # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo
   - '+.nintendo.net'

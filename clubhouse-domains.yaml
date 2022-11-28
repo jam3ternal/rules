@@ -1,0 +1,9 @@
+payload:
+  # > Clubhouse
+  - 'ap-oversea-tls.agora.io'
+  - 'ap-oversea.agora.io'
+  - 'ap-oversea2.agora.io'
+  - 'clubhouse.pubnubapi.com'
+  - 'production-clubhouse-link-previews.s3.amazonaws.com'
+  - 'report-oversea.agora.io'
+  - 'www.clubhouseapi.com'

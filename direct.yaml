@@ -61,6 +61,8 @@ payload:
   - 'xvcf1.xboxlive.com'
   # > Nintendo
   - '+.nintendo.net'
+  # > Nodes
+  - '*.jamjams3.net'
   # > Private Trackers
   - '+.acg.rip'
   - '+.animebytes.tv'
@@ -95,6 +97,8 @@ payload:
   - '+.springsunday.net'
   - '+.tjupt.org'
   - '+.totheglory.im'
+  # > Subscription
+  - 'jmssub.net'
   # > Taobao Steam Wallet Balance Top-up
   - '.yousheng.shop'
   # > Tencent

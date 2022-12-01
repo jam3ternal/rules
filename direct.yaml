@@ -40,13 +40,7 @@ payload:
   # > Destiny Child
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
-  # > DLsite
-  - 'ci-en.net'
-  - '+.dlsite.com'
-  - '+.eisys-bcs.jp'
-  - 'img.dlsite.jp'
-  - '+.chobit.cc'
-  - 'media.ci-en.jp'
+  # > DLsit
   - '+.tongren.jp'
   # > Giftcards
   - '.hepsiburada.com'

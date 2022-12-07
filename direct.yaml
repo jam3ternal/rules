@@ -51,6 +51,8 @@ payload:
   - '.seagmcdn.com'
   - '+.turgame.com'
   - 'sanalpos.halkbank.com.tr'
+  # > Global Cash
+  - 'www.globalcash.hk'
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo

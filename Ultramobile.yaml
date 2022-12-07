@@ -2,6 +2,7 @@ payload:
   # > Ultramobile
   - DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN,3.ue.mstore.msg.t-mobile.com
+  - DOMAIN,e4.ue.mstore.msg.t-mobile.com
   - DOMAIN,3b-api.ultramobile.com
   - IP-CIDR,208.54.150.75/32,no-resolve
   - IP-CIDR,208.54.39.163/32,no-resolve

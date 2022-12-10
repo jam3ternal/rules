@@ -24,6 +24,7 @@ payload:
   - 'stats.cn.ronghub.com'
 # - 't-tcpproxy-cn.ronghub.com'
   - '7o9d.sg.rongnav.com'
+  - '7o9d.sg.rongcfg.com'
 
   - 'api-fc.dutils.com'
   - 'api-fd.dutils.com'
@@ -31,7 +32,7 @@ payload:
   - 'myip.ipip.net'
 
   - '.amplitude.com'
-  - 'inapps.appsflyer.com'
+  - '.appsflyer.com'
   - 'dkapi.geetest.com'
 
   - '8.210.73.205/32'

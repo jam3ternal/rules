@@ -22,7 +22,7 @@ payload:
   - 'geolocation.onetrust.com'
 
   - 'stats.cn.ronghub.com'
-  - 't-tcpproxy-cn.ronghub.com'
+# - 't-tcpproxy-cn.ronghub.com'
   - '7o9d.sg.rongnav.com'
 
   - 'api-fc.dutils.com'

@@ -1,8 +1,9 @@
 payload:
   # > Crypto
+  - 'api.tonkeeper.com'
+  - 'boot.tonkeeper.com'
   - 'fragment.com'
   - 'walletbot.me'
-  - '+.tonkeeper.com'
 # - '+.disintar.io'
 # - '+.getgems.io'
 # - 'ton.diamonds'

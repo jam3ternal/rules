@@ -18,6 +18,11 @@ payload:
   - 'rollout.ada.support'
   - 'static.ada.support'
   - 'geolocation.onetrust.com'
+  - 'device-metrics-us.amazon.com'
+  - 'device-metrics-us-2.amazon.com'
+  - 'settings-win.data.microsoft.com'
+  - 'watson.telemetry.microsoft.com'
+  - 'nexus.officeapps.live.com'
 
   - 'stats.cn.ronghub.com'
 # - 't-tcpproxy-cn.ronghub.com'

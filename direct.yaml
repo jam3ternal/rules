@@ -26,23 +26,23 @@ payload:
   - '.flyert.com'
   - 'snapdrop.net'
   - 'download.jetbrains.com'
-  # > 3HK
+  # 3HK
   - '+.three.com.hk'
-  # > 3MO
+  # 3MO
   - '+.three.com.mo'
-  # > CTMO
+  # CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'
   - 'mobilepayment2.icbc.com.mo'
   - 'openapi.chinatelecom.com.mo'
   - 'wechat.ctcmo.com'
   - 'www.1888.com.mo'
-  # > Destiny Child
+  # Destiny Child
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
-  # > DLsit
+  # DLsite
   - '+.tongren.jp'
-  # > Giftcards
+  # Giftcards
   - '.hepsiburada.com'
   - '.hepsiburada.net'
   - '.mtcgame.com'
@@ -60,53 +60,56 @@ payload:
   # > Nodes
   - '*.jamjams3.net'
   # > Private Trackers
-  - '+.acg.rip'
-  - '+.animebytes.tv'
-  - '+.awesome-hd.me'
-  - '+.broadcasthe.net'
-  - '+.chdbits.co'
-  - '+.classix-unlimited.co.uk'
-  - '+.comicat.org'
-  - '+.empornium.me'
-  - '+.gazellegames.net'
-  - '+.hdbits.org'
-  - '+.hdchina.org'
-  - '+.hddolby.com'
-  - '+.hdhome.org'
-  - '+.hdsky.me'
-  - '+.icetorrent.org'
-  - '+.jpopsuki.eu'
-  - '+.keepfrds.com'
-  - '+.madsrevolution.net'
-  - '+.morethan.tv'
-  - '+.m-team.cc'
-  - '+.myanonamouse.net'
-  - '+.nanyangpt.com'
-  - '+.ncore.cc'
-  - '+.open.cd'
-  - '+.ourbits.club'
-  - '+.passthepopcorn.me'
-  - '+.privatehd.to'
-  - '+.pterclub.com'
-  - '+.redacted.ch'
-  - '+.smtp'
-  - '+.springsunday.net'
-  - '+.tjupt.org'
-  - '+.totheglory.im'
+  # '+.acg.rip'
+  # '+.animebytes.tv'
+  # '+.awesome-hd.me'
+  # '+.broadcasthe.net'
+  # '+.chdbits.co'
+  # '+.classix-unlimited.co.uk'
+  # '+.comicat.org'
+  # '+.empornium.me'
+  # '+.gazellegames.net'
+  # '+.hdbits.org'
+  # '+.hdchina.org'
+  # '+.hddolby.com'
+  # '+.hdhome.org'
+  # '+.hdsky.me'
+  # '+.icetorrent.org'
+  # '+.jpopsuki.eu'
+  # '+.keepfrds.com'
+  # '+.madsrevolution.net'
+  # '+.morethan.tv'
+  # '+.m-team.cc'
+  # '+.myanonamouse.net'
+  # '+.nanyangpt.com'
+  # '+.ncore.cc'
+  # '+.open.cd'
+  # '+.ourbits.club'
+  # '+.passthepopcorn.me'
+  # '+.privatehd.to'
+  # '+.pterclub.com'
+  # '+.redacted.ch'
+  # '+.smtp'
+  # '+.springsunday.net'
+  # '+.tjupt.org'
+  # '+.totheglory.im'
+
   # > Speedtest
   # '+.ooklaserver.net'
   # '+.speedtest.net'
   # '+.cdnst.net'
-  # > Subscription
+  # Subscription
   - 'jmssub.net'
-  # > Taobao Steam Wallet Balance Top-up
+  # Taobao Steam Wallet Balance Top-up
   - '.yousheng.shop'
-  # > Tencent
-  - '182.254.116.0/24'
-  - '203.205.238.0/23'
-  - '203.205.254.0/23'
-  # > Valorant
+  # Valorant
   - '.dyn.riotcdn.net'
   - '.ap.a.pvp.net'
-  # > Vivox
+  # Vivox
   - '.vivox.com'
+  # OKX
+  - 'picasso.okx-dv.net'
+  - 'zd.okx-dv.net'
+  - 'www.okx-dns.com'
+  - 'www.okx-dns1.com'
+  - 'www.okx-dns2.com'

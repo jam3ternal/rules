@@ -24,8 +24,9 @@ payload:
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   # -----------------
   - '.flyert.com'
-  - 'snapdrop.net'
   - 'download.jetbrains.com'
+  - '+.sharedrop.io'
+  - '+.snapdrop.net'
   # 3HK
   - '+.three.com.hk'
   # 3MO

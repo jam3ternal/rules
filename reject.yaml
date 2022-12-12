@@ -1,9 +1,19 @@
 payload:
   # > reject
+  # Windows
   - '+.footprintdns.com'
+  - 'settings-win.data.microsoft.com'
+  - 'watson.telemetry.microsoft.com'
+  - 'nexus.officeapps.live.com'
+  # Amazon Fire TV Stick
+  - 'device-metrics-us.amazon.com'
+  - 'device-metrics-us-2.amazon.com'
+  # Razer Synapse
   - 'kinesis.*.amazonaws.com'
+  # Valorant
   - 'metric-api.newrelic.com'
   - 'data.riotgames.com'
+  --------
   - '10084.x.adanxing.com'
   - 'smetrics.ubi.com'
 # - 'googleads.g.doubleclick.net'
@@ -11,34 +21,18 @@ payload:
   - 'xp.apple.com'
   - 'loggw-ex.alipay.com'
   - 'loggw.alipay.com.cn'
-  - 'ulogs.umengcloud.com'
-  - 'logcollection.ronghub.com'
-  - 'api.share.mob.com'
-  - 'okx.ada.support'
-  - 'rollout.ada.support'
-  - 'static.ada.support'
+  # OKX Web
+  - '.ada.support'
   - 'geolocation.onetrust.com'
-  - 'device-metrics-us.amazon.com'
-  - 'device-metrics-us-2.amazon.com'
-  - 'settings-win.data.microsoft.com'
-  - 'watson.telemetry.microsoft.com'
-  - 'nexus.officeapps.live.com'
-
-  - 'stats.cn.ronghub.com'
-# - 't-tcpproxy-cn.ronghub.com'
-  - '7o9d.sg.rongnav.com'
-  - '7o9d.sg.rongcfg.com'
-
-  - 'api-fc.dutils.com'
-  - 'api-fd.dutils.com'
-  - 'devs-data.dutils.com'
-  - 'myip.ipip.net'
-
+  # OKX iOS
   - '.amplitude.com'
   - '.appsflyer.com'
-  - 'dkapi.geetest.com'
-
-  - '8.210.73.205/32'
-  - '59.111.128.0/17'
-  - '180.76.76.200/32'
-  - '18.138.131.206/32'
+  - '.dutils.com'
+  - '.geetest.com'
+  - '.mob.com'
+  - '.rongnav.com'
+  - '.rongcfg.com'
+  - '.ronghub.com'
+  - '.umeng.com'
+  - '.umengcloud.com'
+  - 'myip.ipip.net'

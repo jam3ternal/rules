@@ -12,6 +12,7 @@ payload:
   - 'client-api.itunes.apple.com'
   - 'init.itunes.apple.com'
   - 'iosapps.itunes.apple.com'
+  - 'pd.itunes.apple.com'
   - 'play.itunes.apple.com'
   - 'se-edge.itunes.apple.com'
   - 'su.itunes.apple.com'

@@ -9,6 +9,7 @@ payload:
   - 'amp-api.apps.apple.com'
   - 'apptrailers.itunes.apple.com'
   - 'bag.itunes.apple.com'
+  - 'client-api.itunes.apple.com'
   - 'init.itunes.apple.com'
   - 'iosapps.itunes.apple.com'
   - 'play.itunes.apple.com'

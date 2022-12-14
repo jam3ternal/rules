@@ -18,7 +18,7 @@ payload:
   - 'smetrics.ubi.com'
 # - 'googleads.g.doubleclick.net'
   - '.siteintercept.qualtrics.com'
-# - 'xp.apple.com'
+  - 'xp.apple.com'
   - 'loggw-ex.alipay.com'
   - 'loggw.alipay.com.cn'
   # OKX Web

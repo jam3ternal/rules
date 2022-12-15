@@ -9,7 +9,7 @@ payload:
   - 'device-metrics-us.amazon.com'
   - 'device-metrics-us-2.amazon.com'
   # Razer Synapse
-  - 'kinesis.*.amazonaws.com'
+# - 'kinesis.*.amazonaws.com'
   # Valorant
   - 'metric-api.newrelic.com'
   - 'data.riotgames.com'

@@ -11,7 +11,7 @@ payload:
   - 'bag.itunes.apple.com'
   - 'client-api.itunes.apple.com'
   - 'init.itunes.apple.com'
-# - 'iosapps.itunes.apple.com'
+  - 'iosapps.itunes.apple.com'
   - 'pd.itunes.apple.com'
   - 'play.itunes.apple.com'
   - 'se-edge.itunes.apple.com'

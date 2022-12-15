@@ -57,7 +57,7 @@ payload:
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo
-  - '+.nintendo.net'
+# - '+.nintendo.net'
   # > Nodes
   - '*.jamjams3.net'
   # > Private Trackers

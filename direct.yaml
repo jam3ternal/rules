@@ -42,7 +42,7 @@ payload:
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
   # DLsite
-  - '+.tongren.jp'
+# - '+.tongren.jp'
   # Giftcards
   - '.hepsiburada.com'
   - '.hepsiburada.net'
@@ -57,7 +57,7 @@ payload:
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo
-# - '+.nintendo.net'
+  - '+.nintendo.net'
   # > Nodes
   - '*.jamjams3.net'
   # > Private Trackers

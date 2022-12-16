@@ -23,7 +23,7 @@ payload:
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   # -----------------
-  - '.flyert.com'
+  - '+.flyert.com'
   - 'download.jetbrains.com'
   - '+.sharedrop.io'
   - '+.snapdrop.net'
@@ -42,7 +42,7 @@ payload:
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
   # DLsite
-# - '+.tongren.jp'
+  - '+.tongren.jp'
   # Giftcards
   - '.hepsiburada.com'
   - '.hepsiburada.net'
@@ -58,8 +58,6 @@ payload:
   - 'xvcf1.xboxlive.com'
   # > Nintendo
   - '+.nintendo.net'
-  # > Nodes
-  - '*.jamjams3.net'
   # > Private Trackers
   # '+.acg.rip'
   # '+.animebytes.tv'
@@ -94,7 +92,6 @@ payload:
   # '+.springsunday.net'
   # '+.tjupt.org'
   # '+.totheglory.im'
-
   # > Speedtest
   # '+.ooklaserver.net'
   # '+.speedtest.net'

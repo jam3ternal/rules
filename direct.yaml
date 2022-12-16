@@ -57,7 +57,7 @@ payload:
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo
-  - '+.nintendo.net'
+# - '+.nintendo.net'
   # > Private Trackers
   # '+.acg.rip'
   # '+.animebytes.tv'

@@ -54,6 +54,8 @@ payload:
   - 'sanalpos.halkbank.com.tr'
   # > Global Cash
   - 'www.globalcash.hk'
+  # > Logitech G HUB
+  - 'updates.ghub.logitechg.com'
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
   # > Nintendo

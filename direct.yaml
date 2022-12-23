@@ -57,6 +57,9 @@ payload:
   - 'sanalpos.halkbank.com.tr'
   # > Global Cash
   - 'www.globalcash.hk'
+  # > iCloud
+  - 'us-ore-00001.s3.dualstack.us-west-2.amazonaws.com'
+  - '+.icloud-content.com'
   # > Logitech G HUB
   - 'updates.ghub.logitechg.com'
   # > Microsoft Store

@@ -30,5 +30,7 @@ payload:
   - '.mob.com'
   - 'stats.*.ronghub.com'
   - 'logcollection.ronghub.com'
+  
   - 'myip.ipip.net'
   - 's.xmcp.ltd'
+  - '.omtrdc.net'

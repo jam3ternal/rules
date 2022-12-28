@@ -113,9 +113,3 @@ payload:
   - '.ap.a.pvp.net'
   # Vivox
   - '.vivox.com'
-  # OKX
-  - 'picasso.okx-dv.net'
-  - 'zd.okx-dv.net'
-  - 'www.okx-dns.com'
-  - 'www.okx-dns1.com'
-  - 'www.okx-dns2.com'

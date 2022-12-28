@@ -26,11 +26,9 @@ payload:
   - 'geolocation.onetrust.com'
   # OKX iOS
   - '.dutils.com'
-  - '.geetest.com'
   - '.mob.com'
   - 'stats.*.ronghub.com'
   - 'logcollection.ronghub.com'
-  
   - 'myip.ipip.net'
   - 's.xmcp.ltd'
   - '.omtrdc.net'

@@ -1,17 +1,27 @@
 payload:
   # > Crypto
+  # Toncoin
   - 'api.tonkeeper.com'
   - 'boot.tonkeeper.com'
   - 'fragment.com'
   - 'walletbot.me'
+  # Binance
   - '+.binance.com'
   - '+.bnbstatic.com'
+  # Bitget
   - '+.bitget.com'
   - '+.bitgetapp.com'
   - '+.bitgetimg.com'
   - '+.zdassets.com'
+  # OKEX
   - '+.okx.com'
   - '+.okcoin.com'
   - '+.okx-dv.net'
   - '.geetest.com'
   - '.geevisit.com'
+  - 'beacon-api.aliyuncs.com'
+  - 'hotfix-api.aliyuncs.com'
+  - 'cloudauth-device.aliyuncs.com'
+  - 'www.okx-dns.com'
+  - 'www.okx-dns1.com'
+  - 'www.okx-dns2.com'

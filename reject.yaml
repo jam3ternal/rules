@@ -11,7 +11,7 @@ payload:
   # Razer Synapse
 # - 'kinesis.*.amazonaws.com'
   # Valorant
-  - 'metric-api.newrelic.com'
+  - '.newrelic.com'
   - 'data.riotgames.com'
   # --------
   - '10084.x.adanxing.com'

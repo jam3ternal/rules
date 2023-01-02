@@ -33,8 +33,8 @@ payload:
   # 3MO
   - '+.three.com.mo'
   # Application
-  - '+.uva.nl'
-  - '+.leidenuniv.nl'
+# - '+.uva.nl'
+# - '+.leidenuniv.nl'
   # Banking
   - '+.velobank.com'
   - '+.eastwestbank.com'

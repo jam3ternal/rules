@@ -102,9 +102,9 @@ payload:
   # '+.tjupt.org'
   # '+.totheglory.im'
   # > Speedtest
-  # '+.ooklaserver.net'
-  # '+.speedtest.net'
-  # '+.cdnst.net'
+    '+.ooklaserver.net'
+    '+.speedtest.net'
+    '+.cdnst.net'
   # Subscription
   - 'jmssub.net'
   # Taobao Steam Wallet Balance Top-up

@@ -2,6 +2,7 @@ payload:
   # > Tom Clancy's Rainbow Six Siege
   - 'r6s1.battleye.com'
   - 'lb-rdv-r6-pc-ne1.ubisoft.com'
+  - 'lb-rdv-siege-xplay-multiaz-prod.ubisoft.com'
   - 'pfmsqosprod1-0.australiaeast.cloudapp.azure.com'
   - 'pfmsqosprod1-0.brazilsouth.cloudapp.azure.com'
   - 'pfmsqosprod1-0.centralus.cloudapp.azure.com'

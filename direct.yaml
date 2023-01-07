@@ -112,3 +112,7 @@ payload:
   - '.pvp.net'
   # Vivox
   - '.vivox.com'
+  # Crunchyroll
+  - 'a-vrv.akamaized.net'
+  - 'v.vrv.co'
+  - 'prod.gccrunchyroll.com'

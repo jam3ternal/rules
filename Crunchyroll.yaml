@@ -2,3 +2,5 @@ payload:
   # > Crunchyroll
   - '+.crunchyroll.com'
 # - 'a-vrv.akamaized.net'
+# - 'v.vrv.co'
+# - 'prod.gccrunchyroll.com'

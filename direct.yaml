@@ -114,5 +114,5 @@ payload:
   - '.vivox.com'
   # Crunchyroll
   - 'a-vrv.akamaized.net'
-  - 'v.vrv.co'
+  - '+.v.vrv.co'
   - 'prod.gccrunchyroll.com'

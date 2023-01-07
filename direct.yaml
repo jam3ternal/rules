@@ -48,8 +48,6 @@ payload:
   # Destiny Child
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
-  # DLsite
-  - '+.tongren.jp'
   # Giftcards
   - '.hepsiburada.com'
   - '.hepsiburada.net'
@@ -110,7 +108,7 @@ payload:
   # Taobao Steam Wallet Balance Top-up
   - '.yousheng.shop'
   # Valorant
-  - '.dyn.riotcdn.net'
-  - '.ap.a.pvp.net'
+  - '.riotcdn.net'
+  - '.pvp.net'
   # Vivox
   - '.vivox.com'

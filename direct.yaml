@@ -32,9 +32,6 @@ payload:
   - '+.three.com.hk'
   # 3MO
   - '+.three.com.mo'
-  # Application
-# - '+.uva.nl'
-# - '+.leidenuniv.nl'
   # Banking
   - '+.velobank.com'
   - '+.eastwestbank.com'
@@ -63,8 +60,6 @@ payload:
   - 'updates.ghub.logitechg.com'
   # > Microsoft Store
   - 'xvcf1.xboxlive.com'
-  # > Nintendo
-# - '+.nintendo.net'
   # > Private Trackers
   # '+.acg.rip'
   # '+.animebytes.tv'
@@ -112,7 +107,3 @@ payload:
   - '.pvp.net'
   # Vivox
   - '.vivox.com'
-  # Crunchyroll
-  - 'a-vrv.akamaized.net'
-  - '+.v.vrv.co'
-  - 'prod.gccrunchyroll.com'

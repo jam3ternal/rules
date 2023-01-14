@@ -1,0 +1,5 @@
+payload:
+  # > Speedtest
+  - '+.ooklaserver.net'
+  - '+.speedtest.net'
+  - '+.cdnst.net'

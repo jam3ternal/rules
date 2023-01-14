@@ -94,10 +94,6 @@ payload:
   # '+.springsunday.net'
   # '+.tjupt.org'
   # '+.totheglory.im'
-  # > Speedtest
-  - '+.ooklaserver.net'
-  - '+.speedtest.net'
-  - '+.cdnst.net'
   # Subscription
   - 'jmssub.net'
   # Taobao Steam Wallet Balance Top-up

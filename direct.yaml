@@ -31,6 +31,8 @@ payload:
   # 3HK
   - '+.three.com.hk'
   - '+.hthk.com'
+  - '+.mastercard.com'
+  - '+.visa.com'
   # 3MO
   - '+.three.com.mo'
   # Banking

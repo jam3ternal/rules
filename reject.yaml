@@ -27,7 +27,7 @@ payload:
   # OKX iOS
   - '.dutils.com'
   - '.mob.com'
-  - 'stats.*.ronghub.com'
+  - 'stats.cn.ronghub.com'
   - 'logcollection.ronghub.com'
   - 'myip.ipip.net'
   - 's.xmcp.ltd'

@@ -25,11 +25,9 @@ payload:
   - '.ada.support'
   - 'geolocation.onetrust.com'
   # OKX iOS
-  - '.dutils.com'
   - '.mob.com'
   - 'stats.cn.ronghub.com'
   - 'logcollection.ronghub.com'
-  - 'myip.ipip.net'
   - 's.xmcp.ltd'
   - '.omtrdc.net'
   - 'gw.m.163.com'

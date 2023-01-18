@@ -108,5 +108,8 @@ payload:
   # Valorant
   - '.riotcdn.net'
   - '.pvp.net'
+  # VeryKuai
+  - '+.verykuai.com'
+  - '+.verykuai.net'
   # Vivox
   - '.vivox.com'

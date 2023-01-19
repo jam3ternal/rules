@@ -38,6 +38,7 @@ payload:
   # Banking
   - '+.velobank.com'
   - '+.eastwestbank.com'
+  - '+.skrill.com'
   # CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'

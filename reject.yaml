@@ -29,7 +29,7 @@ payload:
   - 'stats.cn.ronghub.com'
   - 'logcollection.ronghub.com'
   - 's.xmcp.ltd'
-  - '.omtrdc.net'
+# - '.omtrdc.net'
   - 'gw.m.163.com'
   - '.dutils.com'
   - 'myip.ipip.net'

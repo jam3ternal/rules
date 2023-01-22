@@ -44,6 +44,12 @@ payload:
   - '+.sc.com'
   - '+.bankofamerica.com'
   - '+.citi.com'
+  - '+.citibank.*'
+  - '+.citibank.co.*'
+  - '+.citibank.com.*'
+  - '+.hsbc.*'
+  - '+.hsbc.co.*'
+  - '+.hsbc.com.*'
   # CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'

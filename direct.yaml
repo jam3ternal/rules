@@ -31,11 +31,16 @@ payload:
   # 3HK
   - '+.three.com.hk'
   - '+.hthk.com'
-  - '+.mastercard.com'
-  - '+.visa.com'
   # 3MO
   - '+.three.com.mo'
   # Banking
+  - '+.mastercard.*'
+  - '+.mastercard.co.*'
+  - '+.mastercard.com.*'
+  - '+.visa.com'
+  - '+.visa.co.*'
+  - '+.visa.com.*'
+  - '+.americanexpress.com'
   - '+.skrill.com'
   - '+.wise.com'
   - '+.velobank.com'
@@ -69,18 +74,16 @@ payload:
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'
   # Giftcards
-  - '.hepsiburada.com'
-  - '.hepsiburada.net'
-  - '.mtcgame.com'
+  - '+.hepsiburada.com'
+  - '+.hepsiburada.net'
+  - '+.mtcgame.com'
   - '+.oyunfor.com'
-  - '.seagm.com'
-  - '.seagmcdn.com'
+  - '+.seagm.com'
+  - '+.seagmcdn.com'
   - '+.turgame.com'
-  - 'sanalpos.halkbank.com.tr'
+  - '+.halkbank.com.tr'
   # Global Cash
-  - 'www.globalcash.hk'
-  # Logitech G HUB
-  - 'updates.ghub.logitechg.com'
+  - '+.globalcash.hk'
   # Microsoft Store
   - 'xvcf1.xboxlive.com'
   # OKX 

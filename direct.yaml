@@ -39,6 +39,8 @@ payload:
   - '+.velobank.com'
   - '+.eastwestbank.com'
   - '+.skrill.com'
+  - '+.swissquote.ch'
+  - '+.schwab.com'
   # CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'

@@ -41,6 +41,7 @@ payload:
   - '+.skrill.com'
   - '+.swissquote.ch'
   - '+.schwab.com'
+  - '+.sc.com'
   # CTMO
   - 'aas.bocmacau.com'
   - 'mba.bocmacau.com'

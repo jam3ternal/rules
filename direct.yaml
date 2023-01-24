@@ -43,6 +43,7 @@ payload:
   - '+.americanexpress.com'
   - '+.skrill.com'
   - '+.wise.com'
+  - '+.fups.com'
   - '+.velobank.com'
   - '+.eastwestbank.com'
   - '+.swissquote.ch'

@@ -46,7 +46,7 @@ payload:
   - '+.fups.com'
   - '+.velobank.com'
   - '+.eastwestbank.com'
-# - '+.swissquote.ch'
+  - '+.swissquote.ch'
   - '+.schwab.com'
   - '+.sc.com'
   - '+.bankofamerica.com'

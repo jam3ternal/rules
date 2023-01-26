@@ -64,7 +64,7 @@ payload:
   - '+.bank-of-china.com'
   - '+.boc.*'
   - '+.bochk.com'
-  - '.bocmacau.com'
+  - '+.bocmacau.com'
   - '+.bocusa.com'
   - '+.boci-pru.com.hk'
   - '+.icbc.com.mo'

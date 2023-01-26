@@ -71,9 +71,9 @@ payload:
   - '+.icbcasia.com'
   - '+.icbc-ltd.com'
   # CTMO
-  - 'openapi.chinatelecom.com.mo'
-  - 'wechat.ctcmo.com'
-  - 'www.1888.com.mo'
+  - '+.chinatelecom.com.mo'
+  - '+.ctcmo.com'
+  - '+.1888.com.mo'
   # Destiny Child
   - '.real.dcgl.shiftupcorp.com'
   - '.real.dckr.shiftupcorp.com'

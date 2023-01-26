@@ -22,7 +22,7 @@ payload:
   - 'loggw-ex.alipay.com'
   - 'loggw.alipay.com.cn'
   # OKX Web
-  - '.ada.support'
+# - '.ada.support'
   - 'geolocation.onetrust.com'
   # OKX iOS
   - '.mob.com'

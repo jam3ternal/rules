@@ -91,9 +91,11 @@ payload:
   - '+.halkbank.com.tr'
   # Global Cash
   - '+.globalcash.hk'
-  # HK
+  # HK, MO
   - '.gov.hk'
   - '.edu.hk'
+  - '.gov.mo'
+  - '.edu.mo'
   # Microsoft Store
   - 'xvcf1.xboxlive.com'
   # OKX 

@@ -15,7 +15,7 @@ payload:
   - 'data.riotgames.com'
   # --------
   - '10084.x.adanxing.com'
-  - 'smetrics.ubi.com'
+  - 'smetrics.*.com'
 # - 'googleads.g.doubleclick.net'
   - '.siteintercept.qualtrics.com'
   - 'xp.apple.com'

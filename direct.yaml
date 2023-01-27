@@ -92,9 +92,9 @@ payload:
   # Global Cash
   - '+.globalcash.hk'
   # HK, MO
-  - '.gov.hk'
+# - '.gov.hk'
   - '.edu.hk'
-  - '.gov.mo'
+# - '.gov.mo'
   - '.edu.mo'
   # Microsoft Store
   - 'xvcf1.xboxlive.com'

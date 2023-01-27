@@ -6,16 +6,13 @@ payload:
   - 'watson.telemetry.microsoft.com'
   - 'nexus.officeapps.live.com'
   # Amazon Fire TV Stick
-  - 'device-metrics-us.amazon.com'
   - 'device-metrics-us-2.amazon.com'
   # Razer Synapse
 # - 'kinesis.*.amazonaws.com'
   # Valorant
-  - '.newrelic.com'
   - 'data.riotgames.com'
   # --------
   - '10084.x.adanxing.com'
-  - 'smetrics.*.com'
 # - 'googleads.g.doubleclick.net'
   - '.siteintercept.qualtrics.com'
   - 'xp.apple.com'

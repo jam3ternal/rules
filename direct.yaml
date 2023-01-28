@@ -53,6 +53,7 @@ payload:
   - '+.schwab.com'
   - '+.sc.com'
   - '+.hangseng.com'
+  - '+.ncb.com.hk'
   - '+.bankofamerica.com'
   - '+.citi.com'
   - '+.citibank.*'

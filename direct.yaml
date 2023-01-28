@@ -41,7 +41,7 @@ payload:
   - '+.visa.co.*'
   - '+.visa.com.*'
   - '+.americanexpress.com'
-  - '+.astropay.com'
+# - '+.astropay.com'
   - '+.skrill.com'
   - '+.wise.com'
   - '+.westernunion.com'

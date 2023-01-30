@@ -50,7 +50,7 @@ payload:
   - '+.tinkoff.ru'
   - '+.velobank.com'
   - '+.eastwestbank.com'
-  - '+.swissquote.ch'
+# - '+.swissquote.ch'
   - '+.schwab.com'
   - '+.sc.com'
   - '+.hangseng.com'

@@ -145,7 +145,7 @@ payload:
   # Taobao Steam Wallet Balance Top-up
   - '.yousheng.shop'
   # Valorant
-  - '.riotcdn.net'
+# - '.riotcdn.net'
 # - '.pvp.net'
   # VeryKuai
   - '+.verykuai.com'

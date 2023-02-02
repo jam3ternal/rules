@@ -43,6 +43,7 @@ payload:
   - '+.americanexpress.com'
   - '+.skrill.com'
   - '+.wise.com'
+  - '+.curve.com'
   - '+.westernunion.com'
   - '+.za.group'
   - '+.remitly.io'

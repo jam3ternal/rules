@@ -27,10 +27,7 @@ payload:
   - 'logcollection.ronghub.com'
   - 's.xmcp.ltd'
 # - '.omtrdc.net'
-  - 'gw.m.163.com'
-  - '.dutils.com'
+  - 'gw.m.163.com
   - 'myip.ipip.net'
   - 'tracker-api.my.com'
   - '.online-metrix.net'
-  - '.umeng.com'
-  - '.umengcloud.com'

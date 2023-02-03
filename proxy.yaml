@@ -1,5 +1,5 @@
 payload:
   # > proxy
-  # MO
-  - '.gov.mo'
   - '+.flyert.com'
+  - '+.bilibili.tv'
+  - '+.bstarstatic.com'

@@ -24,7 +24,7 @@ payload:
   # Ubisoft Connect
   - 'uplaypc-s-ubisoft.cdn.ubi.com'
   # -----------------
-  - '+.flyert.com'
+# - '+.flyert.com'
   - 'download.jetbrains.com'
   - '+.sharedrop.io'
   - '+.snapdrop.net'

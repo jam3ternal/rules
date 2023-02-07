@@ -52,6 +52,7 @@ payload:
   - '+.eastwestbank.com'
 # - '+.swissquote.ch'
   - '+.schwab.com'
+  - '+.schwab.com.hk'
   - '+.sc.com'
   - '+.standardchartered.com'
   - '+.hangseng.com'

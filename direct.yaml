@@ -1,5 +1,6 @@
 payload:
   # > direct
+  - 'devicelink.intel.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

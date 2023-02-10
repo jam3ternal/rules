@@ -78,6 +78,7 @@ payload:
   - '+.boci-pru.com.hk'
   - '+.icbc.com.mo'
   - '+.icbcasia.com'
+  - '+.icbc-us.com'
   - '+.icbc-ltd.com'
   # CTMO
   - '+.chinatelecom.com.mo'

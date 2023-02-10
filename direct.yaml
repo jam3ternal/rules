@@ -1,6 +1,6 @@
 payload:
   # > direct
-  - 'devicelink.intel.com'
+  - 'pyfantasy.store'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

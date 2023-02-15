@@ -54,6 +54,7 @@ payload:
   - '+.eastwestbank.com'
   - '+.dukascopy.com'
   - '+.dukascopy.bank'
+  - '+.dukascopy.online'
 # - '+.swissquote.ch'
   - '+.schwab.com'
   - '+.schwab.com.hk'

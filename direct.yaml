@@ -52,6 +52,8 @@ payload:
   - '+.tinkoff.ru'
   - '+.velobank.com'
   - '+.eastwestbank.com'
+  - '+.dukascopy.com'
+  - '+.dukascopy.bank'
 # - '+.swissquote.ch'
   - '+.schwab.com'
   - '+.schwab.com.hk'

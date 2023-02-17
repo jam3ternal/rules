@@ -22,3 +22,5 @@ payload:
   # Bybit
   - '+.bybit.com'
   - '+.bycsi.com'
+  # CEX.io
+  - '+.cex.io'

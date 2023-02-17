@@ -19,3 +19,5 @@ payload:
   - '+.okx-dv.net'
   - '.geetest.com'
   - '.geevisit.com'
+  # Bybit
+  - '+.bybit.com'

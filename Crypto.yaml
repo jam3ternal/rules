@@ -17,7 +17,8 @@ payload:
   - '+.okx.com'
   - '+.okcoin.com'
   - '+.okx-dv.net'
-  - '.geetest.com'
-  - '.geevisit.com'
+# - '.geetest.com'
+# - '.geevisit.com'
   # Bybit
   - '+.bybit.com'
+  - '+.bycsi.com'

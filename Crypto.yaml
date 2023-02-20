@@ -24,3 +24,5 @@ payload:
   - '+.bycsi.com'
   # CEX.io
   - '+.cex.io'
+  # Deribit
+  - '+.deribit.com'

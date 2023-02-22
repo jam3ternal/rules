@@ -107,6 +107,16 @@ payload:
   - '.edu.hk'
 # - '.gov.mo'
   - '.edu.mo'
+  # Hopoo
+  - 'phone.hopoo.co'
+  - 'api.hopoo.co'
+  - 'app.hopoo.co'
+  - 'download.hopoo.co'
+  - 'www.hopincn.com'
+  - 'www.hpoing.com'
+  - 'www.hpchin.com'
+  - 'www.hpcane.com'
+  - 't.cn.gtm.volcdns.com'
   # Microsoft Store
   - 'xvcf1.xboxlive.com'
   # OKX 

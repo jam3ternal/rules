@@ -1,6 +1,7 @@
 payload:
   # > direct
   - 'pyfantasy.store'
+  - '+.cathaypacific.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

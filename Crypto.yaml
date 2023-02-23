@@ -8,6 +8,9 @@ payload:
   # Binance
   - '+.binance.com'
   - '+.bnbstatic.com'
+  - '+.binance.me'
+  - '+.binancecnt.com'
+  - '+.bntrace.com'
   # Bitget
   - '+.bitget.com'
   - '+.bitgetapp.com'

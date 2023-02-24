@@ -2,6 +2,9 @@ payload:
   # > direct
   - 'pyfantasy.store'
   # ------(CDN)------
+  # Battle.met
+  - '+.cdn.blizzard.com'
+  - 'level3.blizzard.com'
   # Epic Games
   - 'download.epicgames.com'
   # GeForce Experience

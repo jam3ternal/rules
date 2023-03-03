@@ -3,4 +3,5 @@ payload:
   - '+.flyert.com'
   - '+.bilibili.tv'
   - '+.bstarstatic.com'
-  - 'abtest.jegotrip.com.cn'
+# - 'abtest.jegotrip.com.cn'
+  - 'app3.jegotrip.com.cn'

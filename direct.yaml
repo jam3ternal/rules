@@ -1,6 +1,7 @@
 payload:
   # > direct
   - 'pyfantasy.store'
+  - 'ha003.justhost.ru'
   # ------(CDN)------
   # Battle.net
   - '+.cdn.blizzard.com'

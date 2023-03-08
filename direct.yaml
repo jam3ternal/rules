@@ -3,9 +3,6 @@ payload:
   - 'pyfantasy.store'
   - 'ftp.ha003.justhost.ru'
   # ------(CDN)------
-  # Battle.net
-  - '+.cdn.blizzard.com'
-  - 'level3.blizzard.com'
   # Epic Games
   - 'download.epicgames.com'
   # GeForce Experience

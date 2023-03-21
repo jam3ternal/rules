@@ -1,0 +1,61 @@
+# > direct
+host,pyfantasy.store,direct
+host-suffix,sharedrop.io,direct
+host-suffix,snapdrop.net,direct
+# 3HK
+host-suffix,three.com.hk,direct
+host-suffix,hthk.com,direct
+# 3MO
+host-suffix,three.com.mo,direct
+# Banking
+host-suffix,americanexpress.com,direct
+host-suffix,skrill.com,direct
+host-suffix,westernunion.com,direct
+host-suffix,za.group,direct
+host-suffix,mox.com,direct
+host-suffix,livibank.com,direct
+host-suffix,tapngo.com.hk,direct
+host-suffix,octopus.com.hk,direct
+host-suffix,tinkoff.ru,direct
+host-suffix,velobank.com,direct
+host-suffix,eastwestbank.com,direct
+host-suffix,dukascopy.com,direct
+host-suffix,dukascopy.bank,direct
+host-suffix,dukascopy.online,direct
+host-suffix,swissquote.ch,direct
+host-suffix,schwab.com,direct
+host-suffix,schwab.com.hk,direct
+host-suffix,interactivebrokers.com,direct
+host-suffix,interactivebrokers.hk,direct
+host-suffix,fidelity.com,direct
+host-suffix,fidelity.com.hk,direct
+host-suffix,fidelityinternational.com,direct
+host-suffix,sc.com,direct
+host-suffix,standardchartered.com,direct
+host-suffix,hangseng.com,direct
+host-suffix,cmbwinglungbank.com,direct
+host-suffix,ncb.com.hk,direct
+host-suffix,bankofamerica.com,direct
+host-suffix,bochk.com,direct
+host-suffix,bocmacau.com,direct
+host-suffix,bocusa.com,direct
+host-suffix,boci-pru.com.hk,direct
+host-suffix,icbc.com.mo,direct
+host-suffix,icbcasia.com,direct
+host-suffix,icbc-us.com,direct
+host-suffix,icbc-ltd.com,direct
+# CTMO
+host-suffix,chinatelecom.com.mo,direct
+host-suffix,ctcmo.com,direct
+host-suffix,1888.com.mo,direct
+# Giftcards
+host-suffix,hepsiburada.com,direct
+host-suffix,hepsiburada.net,direct
+host-suffix,mtcgame.com,direct
+host-suffix,oyunfor.com,direct
+host-suffix,seagm.com,direct
+host-suffix,seagmcdn.com,direct
+host-suffix,turgame.com,direct
+host-suffix,halkbank.com.tr,direct
+# Global Cash
+host-suffix,globalcash.hk,direct

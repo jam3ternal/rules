@@ -1,0 +1,36 @@
+# > Discord
+# Brazil
+ip-cidr, 66.22.200.0/22, direct
+ip-cidr, 66.22.246.0/24, direct
+# Hong Kong
+ip-cidr, 66.22.218.0/23, direct
+ip-cidr, 35.215.128.0/18, direct
+# India
+ip-cidr, 66.22.239.0/24, direct
+ip-cidr, 35.207.192.0/18, direct
+# Japan
+ip-cidr, 66.22.208.0/22, direct
+ip-cidr, 66.22.248.0/24, direct
+# Rotterdam
+ip-cidr, 66.22.196.0/22, direct
+ip-cidr, 35.214.128.0/17, direct
+# Russia
+ip-cidr, 66.22.216.0/23, direct
+# Singapore
+ip-cidr, 66.22.220.0/23, direct
+ip-cidr, 35.213.128.0/18, direct
+# South Africa
+ip-cidr, 66.22.240.0/24, direct
+# Sydney
+ip-cidr, 66.22.232.0/24, direct
+ip-cidr, 66.22.247.0/24, direct
+# US Central
+ip-cidr, 66.22.204.0/22, direct
+# US East
+ip-cidr, 66.22.231.0/24, direct
+# US South
+ip-cidr, 66.22.224.0/23, direct
+ip-cidr, 66.22.245.0/24, direct
+# US West
+ip-cidr, 66.22.226.0/23, direct
+ip-cidr, 35.215.64.0/18, direct

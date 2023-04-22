@@ -20,9 +20,9 @@ host-suffix,octopus.com.hk,direct
 host-suffix,tinkoff.ru,direct
 host-suffix,velobank.com,direct
 host-suffix,eastwestbank.com,direct
-host-suffix,dukascopy.com,direct
-host-suffix,dukascopy.bank,direct
-host-suffix,dukascopy.online,direct
+;host-suffix,dukascopy.com,direct
+;host-suffix,dukascopy.bank,direct
+;host-suffix,dukascopy.online,direct
 host-suffix,swissquote.ch,direct
 host-suffix,schwab.com,direct
 host-suffix,schwab.com.hk,direct

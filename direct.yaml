@@ -112,7 +112,6 @@ payload:
   - 'xvcf1.xboxlive.com'
   # Nintendo
 # - '+.accounts.nintendo.com'
-  - '+.nintendo.com.hk'
 # - 'dauth-lp1.ndas.srv.nintendo.net'
   # OKX 
   - 'www.okx-dns.com'

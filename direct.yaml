@@ -113,7 +113,7 @@ payload:
   # Nintendo
 # - '+.accounts.nintendo.com'
   - '+.nintendo.com.hk'
-  - 'dauth-lp1.ndas.srv.nintendo.net'
+# - 'dauth-lp1.ndas.srv.nintendo.net'
   # OKX 
   - 'www.okx-dns.com'
   - 'www.okx-dns1.com'

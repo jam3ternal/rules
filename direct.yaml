@@ -1,5 +1,7 @@
 payload:
   # > direct
+  - '+.grabtaxi.com'
+  - '+.grab.com'
   - 'pyfantasy.store'
   # ------(CDN)------
   # Epic Games

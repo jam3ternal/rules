@@ -3,6 +3,7 @@ payload:
   - '+.grabtaxi.com'
   - '+.grab.com'
   - 'pyfantasy.store'
+  - '+.steamdb.info'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

@@ -31,6 +31,7 @@ payload:
   - 'download.jetbrains.com'
   - '+.sharedrop.io'
   - '+.snapdrop.net'
+  - '+.pairdrop.net'
   # 3HK
   - '+.three.com.hk'
   - '+.hthk.com'

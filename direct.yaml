@@ -4,7 +4,6 @@ payload:
   - '+.grab.com'
   - 'pyfantasy.store'
   - '+.steamdb.info'
-  - 'smtp-mail.outlook.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

@@ -1,5 +1,6 @@
 payload:
   # > reject
+  - '+.sentry.io'
   # Windows
   - '+.footprintdns.com'
   - 'settings-win.data.microsoft.com'

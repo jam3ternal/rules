@@ -4,6 +4,7 @@ payload:
   - '+.grab.com'
   - 'pyfantasy.store'
   - '+.pyypl.io'
+  - 'api.quppy.com'
   # ------(CDN)------
   # Epic Games
   - 'download.epicgames.com'

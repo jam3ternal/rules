@@ -1,5 +1,8 @@
 payload:
   # > Crypto
+  # Revolut
+  - '+.revolutlabs.com'
+  - '+.revolut.com'
   # Toncoin
   - 'api.tonkeeper.com'
   - 'boot.tonkeeper.com'

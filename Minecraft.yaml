@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,budgie.network
   - IP-CIDR,139.99.145.45/32,no-resolve
   - DOMAIN-SUFFIX,BendersMC.co
+  - DOMAIN,fun.chillsmp.org

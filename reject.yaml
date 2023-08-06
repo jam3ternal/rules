@@ -1,5 +1,6 @@
 payload:
   # > reject
+  - 'collector.bi.imaginecurve.com'
   - '+.sentry.io'
   # Windows
   - '+.footprintdns.com'

@@ -1,5 +1,7 @@
 payload:
   # > Crypto
+  # Curve
+  - '+.curve.app'
   # Revolut
   - '+.revolutlabs.com'
   - '+.revolut.com'

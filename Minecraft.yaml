@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,BendersMC.co
   - DOMAIN,fun.chillsmp.org
   - DOMAIN,pc.realms.minecraft.net
+  - IP-CIDR,172.178.52.158/32,no-resolve

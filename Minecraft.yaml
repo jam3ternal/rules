@@ -8,3 +8,4 @@ payload:
   - DOMAIN,fun.chillsmp.org
   - DOMAIN,pc.realms.minecraft.net
   - IP-CIDR,20.192.0.0/10,no-resolve
+  - IP-CIDR,20.40.0.0/13,no-resolve

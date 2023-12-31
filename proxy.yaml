@@ -1,6 +1,7 @@
 payload:
   # > proxy
   - '+.flyert.com'
+  - '+.mozilla.org'
   - '+.bilibili.tv'
   - '+.bstarstatic.com'
   - 'app3.jegotrip.com.cn'

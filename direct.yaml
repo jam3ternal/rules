@@ -123,8 +123,8 @@ payload:
   # Microsoft Store
   - 'xvcf1.xboxlive.com'
   # Nintendo
-  - '+.accounts.nintendo.com'
-  - 'dauth-lp1.ndas.srv.nintendo.net'
+# - '+.accounts.nintendo.com'
+# - 'dauth-lp1.ndas.srv.nintendo.net'
   # OKX 
   - 'www.okx-dns.com'
   - 'www.okx-dns1.com'

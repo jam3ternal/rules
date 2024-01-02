@@ -1,5 +1,5 @@
 payload:
   # > Cloudflare WARP
-  - 'api.cloudflareclient.com'
+  - '.cloudflareclient.com'
   - 'connectivity.cloudflareclient.com'
   - 'a.nel.cloudflare.com'

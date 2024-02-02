@@ -1,5 +1,7 @@
 payload:
   # > Crypto
+  # World App
+  - '+.worldcoin.org'
   # Curve
   - '+.curve.app'
   # Revolut

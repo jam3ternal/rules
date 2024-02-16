@@ -1,5 +1,6 @@
 payload:
   # > direct
+  - '+.sealos.run'
   - '+.grabtaxi.com'
   - '+.grab.com'
   - 'pyfantasy.store'
